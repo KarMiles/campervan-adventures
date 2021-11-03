@@ -97,7 +97,7 @@ Yes, you can. Since no personally identifiable information is being captured, we
 ```
 pkill uptime.sh
 rm .vscode/uptime.sh
-```
+``` 
 
 **Anything more?**
 

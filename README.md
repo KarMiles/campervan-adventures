@@ -1,0 +1,65 @@
+# Campervan Adventures
+
+This webpage is the showcase for a company Campervan Adventures with the intention to encourage anyone considering having a holiday in a campervan to contact them and rent one of their vehicles. Campervan Adventures aims to achieve this goal through giving the visitor the taste of how much fun and beauty holidays in a campervan can provide and showing some of their campervans in the Our Campervans section.
+
+Live project can be seen here: (link).
+
+# User Experience (UX)
+
+**Project preparation**
+
+The Campervan Adventures site was designed using the Five Planes of User Experience approach. Below are represented the steps taken during the preparation of the site, going from the most abstract to the most concrete.
+
+1. Strategy
+
+**Goals**
+
+In preparing the project the following goals were taken into account:
+
+* Owner’s goals
+
+The webpage owner’s goal is to create online presence for Campervan Adventures to increase their rental turnover via visitors’ engagement and customer loyalty. 
+
+* User's goals
+
+When preparing the webpage I considered the following User stories:
+
+*First Time Visitor Goals:*
+
+to see what holidays in a campervan look and feel like, to be able to contact Campervan Adventures in case of further questions or enquire about vehicle rental, to be able to subscribe to email newsletter and, possibly, rent a vehicle online.
+
+*Returning Visitor Goals:*
+
+to check further details about what is needed to have a holiday in a campervan and draw on support provided by Campervan Adventures and affiliate services.
+
+*Frequent User Goals:*
+
+to see what new vehicles are on offer and check for current promotions.
+
+**Focus / What is worth doing?**
+
+With Owner’s goals in mind and Users’ goals and scenarios taken into consideration the following opportunities were assessed at the initial roll-out:
+
+| No. | Opportunity / problem                                                | Importance<br>(1 - 5 most important) | Viability / Feasibility (1– 5 most feasible) | Focus ratio |
+| --- | -------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ----------- |
+| 1   | Create positive image of campervan holidays and Campervan Adventures | 5                                    | 5                                            | 100%        |
+| 2   | Ability to contact the company                                       | 5                                    | 5                                            | 100%        |
+| 3   | Signing up to the newsletter                                         | 4                                    | 5                                            | 78%         |
+| 4   | View company’s offer                                                 | 5                                    | 4                                            | 78%         |
+| 5   | Directing User to further inspiration and support                    | 3                                    | 4                                            | 43%         |
+| 6   | Rent online                                                          | 4                                    | 1                                            | 9%          |
+
+I calculated the Focus ratio as by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph. 
+
+![Code Institute Feasibility graph](assets/images/feasibility-graph.png)
+
+Basing on the above analysis the initial roll-out follows on opportunities 1 through 4 as most important and feasible and as such are addressed in the project. 
+
+**Definition**
+
+The webpage is an online presence for Campervan Adventures showcasing the attractiveness of campervan holidays and encouraging visitors to contact the company.
+
+**Value**
+
+The value of the project for the owner lies in increased rental turnover achieved through enhanced visitor’s engagement and deepened customer loyalty resulting in repeat orders.
+The value for the visitor lies in getting familiar with the world of campervan holidays and getting an opportunity to realize this vision. 
