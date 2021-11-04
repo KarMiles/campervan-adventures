@@ -120,4 +120,16 @@ Webpage has three main semantic sections:
 
 4. Skeleton
 
-Site markup was created in three versions for various screen sizes: smartphone, tablet and PC computer. For this purpose I used Balsamiq tool.  
+Site markup was created in three versions for various screen sizes: smartphone, tablet and PC computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
+
+Smartphone skeleton:
+
+![Smartphone skeleton](assets/images/smartphone-skeleton.png)
+
+Tablet skeleton: 
+
+![Tablet skeleton](assets/images/tablet-skeleton.png)
+
+Personal Computer skeleton:
+
+![Personal Computer skeleton](assets/images/pc-skeleton.png)
