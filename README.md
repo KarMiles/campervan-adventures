@@ -49,7 +49,7 @@ With Owner’s goals in mind and Users’ goals and scenarios taken into conside
 | 5   | Directing User to further inspiration and support                    | 3                                    | 4                                            | 43%         |
 | 6   | Rent online                                                          | 4                                    | 1                                            | 9%          |
 
-I calculated the Focus ratio as by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph. 
+I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph. 
 
 ![Code Institute Feasibility graph](assets/images/feasibility-graph.png)
 
@@ -97,3 +97,23 @@ Webpage need to contain:
 This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 4.
 
 Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
+
+3. Structure
+
+The information is prioritised in the following order:
+*	Presentation of the holidays in a campervan
+*	Company offer
+*	Contact section
+*	Possibility to sign up for the newsletter
+*	Further inspiration and support.
+
+Webpage has three main semantic sections: 
+
+*	**Navigation bar** at the top of the page is conveniently available to the user at all times and contains links to: Home page, Our Campervans and Contact Us which show in the main section.
+*	**Main section in the middle**
+
+    *	Landing / Home page - contains an image sending the user a clear message about the subject of the website and text with concise presentation of the value the company provides to their customers. The theme both on image and text is wonderful holidays in a campervan.
+
+    *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. This enables visitor to get the feeling which campervan they would be most comfortable in.
+    *	Contact Me - provides address of the company, telephone number, email address and a possibility to sign up for a newsletter.
+*	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
