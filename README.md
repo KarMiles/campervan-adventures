@@ -63,3 +63,37 @@ The webpage is an online presence for Campervan Adventures showcasing the attrac
 
 The value of the project for the owner lies in increased rental turnover achieved through enhanced visitor’s engagement and deepened customer loyalty resulting in repeat orders.
 The value for the visitor lies in getting familiar with the world of campervan holidays and getting an opportunity to realize this vision. 
+
+2. Scope
+
+**Objective requirements**
+
+Visitor wants to find out about spending holidays in a campervan with the possibility of realising this idea.
+
+**Functional specifications**
+
+Visitor uses site navigation to find the information presented on the webpage. To sign up for a newsletter the visitor needs to enter their personal information. 
+
+**Content requirements**
+
+Webpage need to contain:
+* Introduction and pictures representing holidays in a campervan
+* Company’s offer with pictures of vehicles and their description
+* Ability to contact the company via email, social media and telephone.
+* Possibility to sign up to the newsletter
+* Directing User to further inspiration and support.
+
+**Campervan Adventures project rollout**
+
+|   | **Feature**                                                           | **Difficulty (1 – 3 most difficult)** | **Release** |
+| - | --------------------------------------------------------------------- | ------------------------------------- | ----------- |
+| 1 | Introduction and pictures representing holidays in a campervan        | 1                                     | 1           |
+| 2 | Company’s offer with pictures of vehicles and their description       | 2                                     | 1           |
+| 3 | Ability to contact the company via email, social media and telephone. | 1                                     | 1           |
+| 4 | Possibility to sign up to the newsletter                              | 1                                     | 1           |
+| 5 | Directing User to further inspiration and support                     | 2                                     | 2           |
+| 6 | Online rental                                                         | 3                                     | 2           |
+
+This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 4.
+
+Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
