@@ -104,23 +104,27 @@ The information is prioritised in the following order:
 *	Presentation of the holidays in a campervan
 *	Company offer
 *	Contact section
-*	Possibility to sign up for the newsletter
-*	Further inspiration and support.
+*	Possibility to sign up for the newsletter.
 
 Webpage has three main semantic sections: 
 
 *	**Navigation bar** at the top of the page is conveniently available to the user at all times and contains links to: Home page, Our Campervans and Contact Us which show in the main section.
+
 *	**Main section in the middle**
 
     *	Landing / Home page - contains an image sending the user a clear message about the subject of the website and text with concise presentation of the value the company provides to their customers. The theme both on image and text is wonderful holidays in a campervan.
 
     *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. This enables visitor to get the feeling which campervan they would be most comfortable in.
+
     *	Contact Me - provides address of the company, telephone number, email address and a possibility to sign up for a newsletter.
+
 *	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
 
 4. Skeleton
 
-Site markup was created in three versions for various screen sizes: smartphone, tablet and PC computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
+Site low-fidelity prototypes were created in three versions for various screen sizes: smartphone, tablet and Personal Computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
+
+**Home page**
 
 Smartphone skeleton:
 
@@ -133,3 +137,24 @@ Tablet skeleton:
 Personal Computer skeleton:
 
 ![Personal Computer skeleton](assets/images/pc-skeleton.png)
+
+5. Surface
+
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole page with text in black. For distinction navigational elements in the header and footer will be white. 
+
+**Home page**
+
+Below are examples of the Home page design made in Balsamiq tool.
+
+Smartphone design:
+
+![Smartphone design](assets/images/smartphone.png)
+
+Smartphone design:
+
+![Tablet design](assets/images/tablet.png)
+
+Personal Computer design:
+
+![Personal Computer design](assets/images/pc.png)
+
