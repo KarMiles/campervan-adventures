@@ -117,3 +117,7 @@ Webpage has three main semantic sections:
     *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. This enables visitor to get the feeling which campervan they would be most comfortable in.
     *	Contact Me - provides address of the company, telephone number, email address and a possibility to sign up for a newsletter.
 *	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
+
+4. Skeleton
+
+Site markup was created in three versions for various screen sizes: smartphone, tablet and PC computer. For this purpose I used Balsamiq tool.  
