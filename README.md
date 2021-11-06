@@ -114,7 +114,7 @@ Webpage has three main semantic sections:
 
     *	Landing / Home page - contains an image sending the user a clear message about the subject of the website and text with concise presentation of the value the company provides to their customers. The theme both on image and text is wonderful holidays in a campervan.
 
-    *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. This enables visitor to get the feeling which campervan they would be most comfortable in.
+    *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. In case more than one photograph is available for a campervan the they will be changed by the mouse click. This will be indicated by the text showing when mouse is moved over the photo and buttons placed on the sides of the photo. This part enables visitor to get the feeling which campervan they would be most comfortable in.
 
     *	Contact Me - provides address of the company, telephone number and an email address.
 
