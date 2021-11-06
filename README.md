@@ -124,49 +124,17 @@ Webpage has three main semantic sections:
 
 Site low-fidelity prototypes were created in three versions for various screen sizes: smartphone, tablet and Personal Computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
 
-**Home page**
-
 Home page wireframe:
 
-![Smartphone skeleton](assets/images/skeleton-home.png)
+![Home page wireframe](assets/images/skeleton-home.png)
 
-![Smartphone skeleton](assets/images/smartphone-skeleton-home.png)
+Our Campervans wireframe:
 
-Tablet skeleton: 
+![Our Campervans wireframe](assets/images/skeleton-campervans.png)
 
-![Tablet skeleton](assets/images/tablet-skeleton-home.png)
+Contact Us wireframe:
 
-Personal Computer skeleton:
-
-![Personal Computer skeleton](assets/images/pc-skeleton-home.png)
-
-**Our Campervans page**
-
-Smartphone skeleton:
-
-![Smartphone skeleton](assets/images/smartphone-skeleton-campervans.png)
-
-Tablet skeleton: 
-
-![Tablet skeleton](assets/images/tablet-skeleton-campervans.png)
-
-Personal Computer skeleton:
-
-![Personal Computer skeleton](assets/images/pc-skeleton-campervans.png)
-
-**Contact page**
-
-Smartphone skeleton:
-
-![Smartphone skeleton](assets/images/smartphone-skeleton-contact.png)
-
-Tablet skeleton: 
-
-![Tablet skeleton](assets/images/tablet-skeleton-contact.png)
-
-Personal Computer skeleton:
-
-![Personal Computer skeleton](assets/images/pc-skeleton-contact.png)
+![Contact Us wireframe](assets/images/skeleton-contact.png)
 
 5. Surface
 
