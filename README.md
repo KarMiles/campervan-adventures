@@ -126,7 +126,9 @@ Site low-fidelity prototypes were created in three versions for various screen s
 
 **Home page**
 
-Smartphone skeleton:
+Home page wireframe:
+
+![Smartphone skeleton](assets/images/skeleton-home.png)
 
 ![Smartphone skeleton](assets/images/smartphone-skeleton-home.png)
 
