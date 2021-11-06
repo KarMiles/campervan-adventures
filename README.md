@@ -116,7 +116,7 @@ Webpage has three main semantic sections:
 
     *	Our Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. This enables visitor to get the feeling which campervan they would be most comfortable in.
 
-    *	Contact Me - provides address of the company, telephone number, email address and a possibility to sign up for a newsletter.
+    *	Contact Me - provides address of the company, telephone number and an email address.
 
 *	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
 
@@ -128,33 +128,55 @@ Site low-fidelity prototypes were created in three versions for various screen s
 
 Smartphone skeleton:
 
-![Smartphone skeleton](assets/images/smartphone-skeleton.png)
+![Smartphone skeleton](assets/images/smartphone-skeleton-home.png)
 
 Tablet skeleton: 
 
-![Tablet skeleton](assets/images/tablet-skeleton.png)
+![Tablet skeleton](assets/images/tablet-skeleton-home.png)
 
 Personal Computer skeleton:
 
-![Personal Computer skeleton](assets/images/pc-skeleton.png)
+![Personal Computer skeleton](assets/images/pc-skeleton-home.png)
+
+**Our Campervans page**
+
+Smartphone skeleton:
+
+![Smartphone skeleton](assets/images/smartphone-skeleton-campervans.png)
+
+Tablet skeleton: 
+
+![Tablet skeleton](assets/images/tablet-skeleton-campervans.png)
+
+Personal Computer skeleton:
+
+![Personal Computer skeleton](assets/images/pc-skeleton-campervans.png)
+
+**Contact page**
+
+Smartphone skeleton:
+
+![Smartphone skeleton](assets/images/smartphone-skeleton-contact.png)
+
+Tablet skeleton: 
+
+![Tablet skeleton](assets/images/tablet-skeleton-contact.png)
+
+Personal Computer skeleton:
+
+![Personal Computer skeleton](assets/images/pc-skeleton-contact.png)
 
 5. Surface
 
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole page with text in black. For distinction navigational elements in the header and footer will be white. 
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole main section with text in black. For distinction navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. 
 
 **Home page**
 
-Below are examples of the Home page design made in Balsamiq tool.
+Below is an example of preliminary graphical design of the Home page made in Balsamiq tool for smartphone screen. Screenshots of actual web pages will follow.
 
 Smartphone design:
 
-![Smartphone design](assets/images/smartphone.png)
+![Smartphone design](assets/images/smartphone-colours-home.png)
 
-Smartphone design:
 
-![Tablet design](assets/images/tablet.png)
-
-Personal Computer design:
-
-![Personal Computer design](assets/images/pc.png)
 
