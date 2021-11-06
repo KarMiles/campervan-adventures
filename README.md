@@ -198,7 +198,8 @@ This project has been realised using the following frameworks, programs and webp
 * Balsamiq - for wireframes creation
 * [Canva](www.canva.com) – logo creation
 * [Colormind](http://colormind.io) – color palette creation  
-* [Unsplash](https://unsplash.com) - for stock photographs.
+* [Unsplash](https://unsplash.com) - for stock photographs
+* [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed.
@@ -216,3 +217,8 @@ The following validators will be used for testing the site:
 
 * Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is) (*results will appear here*).
 * Goal 2: For spotting unexpected errors the site will also be tested by human testers.
+
+# Credits
+* Code
+* Media
+* Acknowledgements
