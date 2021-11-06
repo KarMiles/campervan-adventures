@@ -172,7 +172,7 @@ This project has been realised using the following frameworks, programs and webp
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 
 # Deployment
-The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed.
+The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
 
 Link to live site will be *here*. 
 
