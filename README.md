@@ -168,15 +168,35 @@ Personal Computer skeleton:
 
 5. Surface
 
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole main section with text in black. For distinction navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. 
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole main section with text in dark colour. For distinction navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. The pallette is compiled using Colormind webpage.
+
+Active element will be marked with distinct colour to help visitor in navigation.
+
+Company logo will always be visible in upper left corner, in the navigation section.
 
 **Home page**
 
 Below is an example of preliminary graphical design of the Home page made in Balsamiq tool for smartphone screen. Screenshots of actual web pages will follow.
 
+
+
 Smartphone design:
 
 ![Smartphone design](assets/images/smartphone-colours-home.png)
 
+# Technologies used
+This project has been realised using the following technologies:
+* HTML5
+* CSS3
 
+# Frameworks, Libraries and Programs used
+This project has been realised using the following frameworks, programs and webpages:
+* Git - for version control
+* GitHub - for storing the project's code and other files
+* Visual Studio Code - for writing the code and documents
+* Google Fonts
+* Balsamiq - for wireframes creation
+* [Canva](www.canva.com) – logo creation
+* [Colormind](http://colormind.io) – color palette creation  
+* [Unsplash](https://unsplash.com) - for stock photographs
 
