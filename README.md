@@ -124,17 +124,17 @@ Webpage has three main semantic sections:
 
 Site low-fidelity prototypes were created in three versions for various screen sizes: smartphone, tablet and Personal Computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
 
-Home page wireframe:
+Home page wireframes:
 
-![Home page wireframe](assets/images/skeleton-home.png)
+![Home page wireframes](assets/images/skeleton-home.png)
 
-Our Campervans wireframe:
+Our Campervans wireframes:
 
-![Our Campervans wireframe](assets/images/skeleton-campervans.png)
+![Our Campervans wireframes](assets/images/skeleton-campervans.png)
 
-Contact Us wireframe:
+Contact Us wireframes:
 
-![Contact Us wireframe](assets/images/skeleton-contact.png)
+![Contact Us wireframes](assets/images/skeleton-contact.png)
 
 5. Surface
 
