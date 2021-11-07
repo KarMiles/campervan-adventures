@@ -179,14 +179,17 @@ Link to live site will be *here*.
 # Testing
 *Validators*
 
-The following validators will be used for testing the site:
-* W3C Markup Validator (*link to results wil appear here*)
-* W3C CSS Validator (*link to results will appear here*)
+The following validators will be used for testing code correctness:
+* [W3C Markup Validator](https://validator.w3.org/) (*link to results wil appear here*)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) (*link to results will appear here*)
+
 
 *User Experience (UX) testing*
 
-* Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is) (*results will appear here*).
-* Goal 2: For spotting unexpected errors the site will also be tested by human testers.
+* Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is)
+* Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+* Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* Goal 4: For spotting unexpected errors the site will also be tested by human testers.
 
 # Credits
 * Code
