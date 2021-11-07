@@ -1,8 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body {
+    font-family: 'Dongle', sans-serif;
+    color: #1e2c40;
+    font-size: 26px;
+}
+
+
+/* header */
+
 #logo {
     height: 50px;
     width: 50px;
+    float: left;
 }
 
 #menu {
     list-style: none;
+    display: inline-block;
+}
+
+#logo, #menu {
+    line-height: 50px;
+}
+
+#menu li {
+    float: right;
+    padding: 20px;
 }
