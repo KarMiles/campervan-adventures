@@ -165,6 +165,7 @@ This project has been realised using the following frameworks, programs and webp
 * GitHub - for storing the project's code and other files
 * Visual Studio Code - for writing the code and documents
 * Balsamiq - for wireframes creation
+* [Bootstrap](https://getbootstrap.com/) - for navigation and image manipulation components
 * [Google Fonts](https://fonts.google.com/)
 * [Canva](www.canva.com) – logo creation
 * [Colormind](http://colormind.io) – color palette creation  
