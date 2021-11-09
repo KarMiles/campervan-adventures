@@ -16,25 +16,25 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 
 In preparing the project the following goals were taken into account:
 
-* Owner’s goals
+*Owner’s goals*
 
-The webpage owner’s goal is to create online presence for Campervan Adventures to increase their rental turnover via visitors’ engagement and customer loyalty. 
+The webpage owner’s goal is to create online presence for Campervan Adventures in order to increase their rental turnover via visitors’ engagement and customer loyalty. 
 
-* User's goals
+*User's goals*
 
-When preparing the webpage I considered the following User stories:
+When preparing the webpage I considered User's goals through the following User stories:
 
-*First Time Visitor Goals:*
+*First Time Visitor's goals:*
 
-to see what holidays in a campervan look and feel like, to be able to contact Campervan Adventures in case of further questions or enquire about vehicle rental, to be able to subscribe to email newsletter and, possibly, rent a vehicle online.
+* As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. **Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.)
 
-*Returning Visitor Goals:*
+*First Time or Returning Visitor Goals:*
 
-to check further details about what is needed to have a holiday in a campervan and draw on support provided by Campervan Adventures and affiliate services.
-
-*Frequent User Goals:*
-
-to see what new vehicles are on offer and check for current promotions.
+* As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to physical address. 
+* As a Visitor I want to subscribe to email newsletter. **End user goal:** Stay in contact for further information and inspiration. **End business goal:** Build and maintain customer loyalty through customer engagement. **Acceptance criteria:** Obtain customer contact information via email and optionally telephone number. 
+* As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
+* As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
+* As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
 
 **Focus / What is worth doing?**
 
@@ -171,6 +171,7 @@ This project has been realised using the following frameworks, programs and webp
 * [Colormind](http://colormind.io) – color palette creation  
 * [Unsplash](https://unsplash.com) - for stock photographs
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
+* [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
