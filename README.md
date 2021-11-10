@@ -26,11 +26,11 @@ When preparing the webpage I considered User's goals through the following User 
 
 *First Time Visitor's goals:*
 
-* As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. **Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.)
+* As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. **Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.) 
 
 *First Time or Returning Visitor Goals:*
 
-* As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to physical address. 
+* As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to the physical address. 
 * As a Visitor I want to subscribe to email newsletter. **End user goal:** Stay in contact for further information and inspiration. **End business goal:** Build and maintain customer loyalty through customer engagement. **Acceptance criteria:** Obtain customer contact information via email and optionally telephone number. 
 * As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
 * As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
@@ -191,7 +191,7 @@ The following validators will be used for testing code correctness:
 * Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is)
 * Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 * Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
-* Goal 4: For spotting unexpected errors the site will also be tested by human testers.
+* Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
 
 # Credits
 * Code
