@@ -192,6 +192,7 @@ The following validators will be used for testing code correctness:
 * Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 * Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
+* Goal 5: Peer code review at Slack (#peer-code-review).
 
 # Credits
 * Code
