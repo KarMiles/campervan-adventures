@@ -46,7 +46,7 @@ With Owner’s goals in mind and Users’ goals and scenarios taken into conside
 | 2   | Ability to contact the company                                       | 5                                    | 5                                            | 100%        |
 | 3   | Signing up to the newsletter                                         | 4                                    | 5                                            | 78%         |
 | 4   | View company’s offer                                                 | 5                                    | 4                                            | 78%         |
-| 5   | Directing User to further inspiration and support                    | 3                                    | 4                                            | 43%         |
+| 5   | Presenting company's services                    | 3                                    | 4                                            | 43%         |
 | 6   | Rent online                                                          | 4                                    | 1                                            | 9%          |
 
 I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph. 
@@ -81,7 +81,7 @@ Webpage need to contain:
 * Company’s offer with pictures of vehicles and their description
 * Ability to contact the company via email, social media and telephone.
 * Possibility to sign up to the newsletter
-* Directing User to further inspiration and support.
+* Presenting company's services.
 
 **Campervan Adventures project rollout**
 
@@ -91,10 +91,10 @@ Webpage need to contain:
 | 2 | Company’s offer with pictures of vehicles and their description       | 2                                     | 1           |
 | 3 | Ability to contact the company via email, social media and telephone. | 1                                     | 1           |
 | 4 | Possibility to sign up to the newsletter                              | 1                                     | 1           |
-| 5 | Directing User to further inspiration and support                     | 2                                     | 2           |
+| 5 | Presenting company's services                     | 2                                     | 2           |
 | 6 | Online rental                                                         | 3                                     | 2           |
 
-This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 4.
+This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 5.
 
 Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
 
