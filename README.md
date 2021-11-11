@@ -112,13 +112,15 @@ Webpage has three main semantic sections:
 
 *	**Main section in the middle**
 
-    *	Landing page - Campervans - shows a short presentation of available campervans with photographs and description of each vehicle. In case more than one photograph is available for a campervan the they will be changed by the mouse click. This will be indicated by the text showing when mouse is moved over the photo and buttons placed on the sides of the photo. This part enables visitor to get the feeling which campervan they would be most comfortable in.
+    * Landing page - shows a short welcome and description of the company and it's offerings.
+    
+    * Campervans - is the page presenting available campervans with photographs and description of each vehicle. In case more than one photograph is available for a campervan they will be changed by the mouse click using carousel. This part enables visitor to get the feeling which campervan they would be most comfortable in.
 
     * Services - shows description of services offered at company's garage.
 
     * FAQ - presents answeres to frequently asked questions related to company's rental and campervan service business.
 
-    *	Contact Me - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section and a short discription of the company in About Us section.
+    * Contact Me - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section and a short discription of the company in About Us section.
 
 *	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
 
