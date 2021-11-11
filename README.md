@@ -116,7 +116,7 @@ Webpage has three main semantic sections:
     
     * Campervans - is the page presenting available campervans with photographs and description of each vehicle. In case more than one photograph is available for a campervan they will be changed by the mouse click using carousel. This part enables visitor to get the feeling which campervan they would be most comfortable in.
 
-    * Services - shows description of services offered at company's garage.
+    * Garage - shows description of services offered at company's garage.
 
     * FAQ - presents answeres to frequently asked questions related to company's rental and campervan service business.
 
@@ -146,7 +146,7 @@ The intention behind building the sensory design for the site is focusing on a s
 
 Active element will be marked with a distinct colour to help visitor in navigation.
 
-Company logo will always be visible in upper left corner, in the navigation section.
+Company logo will always be visible in the navigation section.
 
 **Home page**
 
