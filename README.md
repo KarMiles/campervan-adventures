@@ -142,11 +142,11 @@ Contact Us wireframes:
 
 5. Surface
 
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcome with a topical picture of a landscape with a campervan in the background covering whole main section with text in dark colour. For distinction navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. The pallette is compiled using [Colormind](http://colormind.io/) webpage.
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a landscape with a campervan. Navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. The pallette is compiled using [Colormind](http://colormind.io/) webpage. 
 
 Active element will be marked with a distinct colour to help visitor in navigation.
 
-Company logo will always be visible in the navigation section.
+Company logo will always be visible in the navigation section and will lead to home page.
 
 **Home page**
 
