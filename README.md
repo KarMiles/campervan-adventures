@@ -128,17 +128,33 @@ Webpage has three main semantic sections:
 
 Site low-fidelity prototypes were created in three versions for various screen sizes: smartphone, tablet and Personal Computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
 
-Home page wireframes:
+**Home** page wireframes:
 
 ![Home page wireframes](assets/images/skeleton-home.png)
 
-Our Campervans wireframes:
+**Campervans** wireframes:
 
-![Our Campervans wireframes](assets/images/skeleton-campervans.png)
+This page uses carousele component for rotation of images.  
 
-Contact Us wireframes:
+![Campervans wireframes](assets/images/skeleton-campervans.png)
 
-![Contact Us wireframes](assets/images/skeleton-contact.png)
+**Garage** wireframes:
+
+This page uses Tab Bar component to navigate among various services offered by the company's garage.
+
+![Garage wireframes](assets/images/wireframe-garage.png)
+
+**FAQ** wireframes:
+
+This page uses form for Acordion component for efficient usage of the web page space.
+
+![Contact Us wireframes](assets/images/wireframe-faq.png)
+
+**Contact Us** wireframes:
+
+This page uses form for collecting user's data and Google Maps for navigation.
+
+![Contact Us wireframes](assets/images/wireframe-contact.png)
 
 5. Surface
 
