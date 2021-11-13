@@ -20,16 +20,13 @@ body {
     width: 50px;
 }
 
-#menu {
-    list-style: none;
-    display: inline-block;
+#container-fluid #logo {
+    height: 30px;
+    width: 30px;
 }
 
-#logo, #menu {
-    line-height: 50px;
+/*
+nav li {
+    text-align: center;
 }
-
-#menu li {
-    float: right;
-    padding-left: 10px;
-}
+*/
