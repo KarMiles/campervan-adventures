@@ -25,6 +25,7 @@ footer {
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 1%;
+    margin-top: 0.5em;
 }
 
 footer ul {
@@ -83,7 +84,7 @@ p {
     margin: 0.25em 2px 0.25em;
 }
 
-.welcome img {
+.intro img {
     width: 100%;
     height: 100px;
     object-fit: cover;
@@ -100,3 +101,32 @@ p {
     margin-bottom: -1.5em;
 
 }
+
+/* media queries */
+
+/* large screen */
+@media screen and (max-width: 99999px) {
+    .intro {
+        column-count: 3;
+    }
+}
+
+/* medium screen */
+@media screen and (max-width: 1080px) {
+    .intro {
+        column-count: 2;
+    }
+    h2, img {
+        break-after: avoid-column;
+    }
+}
+
+/* smartphone screen */
+@media screen and (max-width: 575px) {
+    .intro {
+        column-count: 1;
+    }
+}
+
+
+
