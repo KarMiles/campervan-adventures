@@ -21,12 +21,40 @@ body {
 }
 
 #container-fluid #logo {
-    height: 30px;
-    width: 30px;
+    height: 32px;
+    width: 32px;
 }
 
-/*
-nav li {
+footer {
     text-align: center;
 }
-*/
+
+footer ul {
+    height: fit-content;
+    list-style-type: none;
+    margin: 1%;
+    padding: 5%;
+    color: darkgray;
+    background-color: #f8f9fa
+    ;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    color: grey;
+}
+
+/* Font Awesome fix for version 4.x */
+.fab {
+    font-family: fontawesome !important;
+    font-style: normal;
+    text-decoration: none;
+} 
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
