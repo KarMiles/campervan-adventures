@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&family=Noto+Sans&display=swap');
-
+/* Google Fonts used: Ovo, Yuji Syuku */ 
+@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Yuji+Syuku&display=swap');
 
 
 body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Yuji Syuku', serif;
     /*font-family: 'Dongle', sans-serif;*/
     color: #1e2c40;
     font-size: medium;
@@ -11,7 +11,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 
 /* header */
 
@@ -27,24 +26,31 @@ body {
 
 footer {
     text-align: center;
+    background-color: #f8f9fa;
 }
 
 footer ul {
+    color: darkgray;
     height: fit-content;
     list-style-type: none;
     margin: 1%;
-    padding: 5%;
-    color: darkgray;
-    background-color: #f8f9fa
-    ;
+    padding: 2%;
+
 }
 
 footer li {
     display: inline;
+    margin: 0 3%;
 }
 
 footer i {
     color: grey;
+    font-size: large;
+}
+
+.footer-description {
+    font-size: small;
+    color: darkgray;
 }
 
 /* Font Awesome fix for version 4.x */
@@ -54,7 +60,6 @@ footer i {
     text-decoration: none;
 } 
 
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: none; }
-a:active { text-decoration: none; }
+a:link, a:visited, a:hover, a:active { 
+    text-decoration: none; 
+}
