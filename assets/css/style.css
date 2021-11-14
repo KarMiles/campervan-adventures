@@ -27,15 +27,14 @@ body {
 footer {
     text-align: center;
     background-color: #f8f9fa;
+    padding-top: 1%;
 }
 
 footer ul {
     color: darkgray;
-    height: fit-content;
     list-style-type: none;
-    margin: 1%;
-    padding: 1%;
-
+    margin: 0;
+    padding: 0;
 }
 
 footer li {
@@ -51,6 +50,11 @@ footer i {
 .footer-description {
     font-size: small;
     color: darkgray;
+}
+
+.footer-description p {
+    margin: 0;
+    padding: 0 3px 5px;
 }
 
 /* Font Awesome fix for version 4.x */
