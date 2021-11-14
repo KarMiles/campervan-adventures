@@ -4,12 +4,7 @@
 
 body {
     font-family: 'Yuji Syuku', serif;
-    /*font-family: 'Dongle', sans-serif;*/
     color: #1e2c40;
-    /*font-size: medium;
-    border: 0;
-    margin: 0;
-    padding: 0;*/
 }
 
 /* header */
@@ -23,6 +18,8 @@ body {
     height: 32px;
     width: 32px;
 }
+
+/* footer */
 
 footer {
     text-align: center;
@@ -57,7 +54,7 @@ footer i {
     padding: 0 3px 5px;
 }
 
-/* Font Awesome fix for version 4.x */
+/* Font Awesome fix */
 .fab {
     font-family: fontawesome !important;
     font-style: normal;
@@ -68,15 +65,22 @@ a:link, a:visited, a:hover, a:active {
     text-decoration: none; 
 }
 
+/* main text */
+
 h1 {
     text-align: center;
     font-weight: bold;
+    margin: 0.75em, 2px;
 }
 
 h2 {
-    margin: 3% 0 0 0;
     font-size: large;
     font-weight: bold;
+    margin: 1em 2px 0;
+}
+
+p {
+    margin: 0.25em 2px 0.25em;
 }
 
 .welcome img {
@@ -86,4 +90,13 @@ h2 {
     overflow: hidden;
     position: relative;
     margin: 3px 0;
+}
+
+.accent {
+    -webkit-text-emphasis: triangle rgb(119, 31, 31);
+    text-emphasis: triangle rgb(119, 31, 31);
+    color: white;
+    text-align: center;
+    margin-bottom: -1.5em;
+
 }
