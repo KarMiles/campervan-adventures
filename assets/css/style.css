@@ -99,7 +99,11 @@ p {
     color: white;
     text-align: center;
     margin-bottom: -1.5em;
+}
 
+.card {
+    break-inside: avoid;
+    border: 0;
 }
 
 /* media queries */
