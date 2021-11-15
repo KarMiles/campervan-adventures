@@ -139,6 +139,9 @@ a {
     h2, img {
         break-after: avoid-column;
     }
+    .footer {
+        position: static;
+    }
 }
 
 /* smartphone screen */
