@@ -91,7 +91,7 @@ p {
     margin: 0.25em 2px 0.25em;
 }
 
-.intro img {
+.article img {
     width: 100%;
     height: 100px;
     object-fit: cover;
@@ -126,14 +126,14 @@ a {
 
 /* large screen */
 @media screen and (max-width: 99999px) {
-    .intro {
+    .article {
         column-count: 3;
     }
 }
 
 /* medium screen */
 @media screen and (max-width: 1080px) {
-    .intro {
+    .article {
         column-count: 2;
     }
     h2, img {
@@ -146,7 +146,7 @@ a {
 
 /* smartphone screen */
 @media screen and (max-width: 575px) {
-    .intro {
+    .article {
         column-count: 1;
     }
     .footer {
