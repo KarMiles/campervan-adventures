@@ -26,8 +26,7 @@ body {
 footer {
     text-align: center;
     background-color: #f8f9fa;
-    padding-top: 10px;
-    margin-top: 50px;
+    padding-top: 1%;
 }
 
 footer ul {
@@ -57,8 +56,13 @@ footer i {
     padding: 0 3px 5px;
 }
 
-/* footer location */
-
+/* footer fixed position */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
 
 /* Font Awesome fix */
 .fab {
@@ -134,6 +138,9 @@ p {
 @media screen and (max-width: 575px) {
     .intro {
         column-count: 1;
+    }
+    .footer {
+        position: static;
     }
 }
 

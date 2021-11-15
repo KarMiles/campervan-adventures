@@ -183,7 +183,7 @@ This project has been realised using the following frameworks, programs and webp
 * [Pikwizard](https://pikwizard.com/) - for stock photographs
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
-* [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/) - Footer location
+* [W3 School](https://www.w3schools.com/)
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
