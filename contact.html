@@ -134,8 +134,24 @@
             </p>
         </div>
         <div class="card">
-            <p>Sing up</p>
-            <p></p>
+            <form method="post" action="https://formdump.codeinstitute.net/">
+                <h2>Sign up for more inspiration and offers:</h2>
+                <label for="name">Name:</label>
+                <input id="name" name="customer_name" type="text" required>
+
+                <label for="email">Email address:</label>
+                <input id="email" name="customer_email" type="text" required>
+
+                <h2>You are interested in:</h2>
+                <label for="rent">Campervan rent</label>
+                <input id="rent" name="customer_interest" value="rent" type="radio" required checked>
+                <label for="services">Garage services</label>
+                <input id="services" name="customer_interest" value="services" type="radio" required>
+                <label for="both">Both</label>
+                <input id="both" name="customer_interest" value="both" type="radio" required>
+
+                <input type="submit" value="Let's roll!">
+            </form>
         </div>
         <div class="card">
             How to get here
