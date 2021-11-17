@@ -76,7 +76,7 @@
             <h2>
                 Opening times
             </h2>
-            <table>
+            <table id="hours">
                 <tr>
                     <th>
                         Days
@@ -114,58 +114,64 @@
             <h2>
                 Phone & Email
             </h2>
-            <p>
+            <p class="details">
                 Tel. +44 555 123 456
             </p>
-            <p>    
+            <p class="details">    
                 e-mail: info@campadv.cool
             </p>
             <h2>
                 Address
             </h2>
-            <p>
+            <p class="details">
                 777 Belle View Rd
             </p>
-            <p>
+            <p class="details">
                 WER A0K, Travelston
-            </p>
-            <p>
+            </p class="details">
+            <p class="details">
                 England, UK
             </p>
         </div>
-        <div class="card">
+        <div class="card" id="signup-form">
+            <img src="assets/images/writing.jpg"
+            aria-label="A close-up on a hand writing a letter">
             <form method="post" action="https://formdump.codeinstitute.net/">
                 <h2>Sign up for more inspiration and offers:</h2>
-                <label for="name">Name:</label>
-                <input id="name" name="customer_name" type="text" required>
+                <label class="input-text" for="name">Name:</label>
+                <input class="input-text" id="name" name="customer_name" type="text" required>
 
-                <label for="email">Email address:</label>
-                <input id="email" name="customer_email" type="email" required>
+                <label class="input-text" for="email">Email address:</label>
+                <input class="input-text" id="email" name="customer_email" type="email" required>
 
                 <h2>You are interested in:</h2>
-                <label for="rent">Campervan rent</label>
+                
                 <input id="rent" name="customer_interest" value="rent" type="radio" required checked>
-                <label for="services">Garage services</label>
-                <input id="services" name="customer_interest" value="services" type="radio" required>
-                <label for="both">Both</label>
-                <input id="both" name="customer_interest" value="both" type="radio" required>
+                <label for="rent">Campervan rent</label>
 
-                <input type="submit" value="Let's roll!">
+                <input id="services" name="customer_interest" value="services" type="radio" required>
+                <label for="services">Garage services</label>
+
+                <input id="both" name="customer_interest" value="both" type="radio" required>
+                <label for="both">Both</label>
+                
+                <input class="input-text" type="submit" value="Let's roll!">
             </form>
         </div>
         <div class="card">
             <h2>
                 How  to get here
             </h2>
-            <div id="map-wrapper">
-                <iframe id="map" src="https://bit.ly/3CmFD6b" width="100%" height="400"></iframe>
-            </div>
+            
             <p>
-            To find us on Google Maps please click <a href="https://goo.gl/maps/DJSE6GMtMioqGcDk7">here</a>. 
+            To find us on Google Maps please click <a href="https://goo.gl/maps/DJSE6GMtMioqGcDk7" target="_blank">here</a> or use map below. 
             </p>
         </div>
     </section>
-    </div>
+    
+    <section id="map-wrapper">
+        <iframe id="map" src="https://bit.ly/3CmFD6b" width="100%" height="400"></iframe>
+    </section>
 
     <div class="footer">
         <footer>

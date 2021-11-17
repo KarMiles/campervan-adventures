@@ -85,7 +85,7 @@ h1 {
 h2 {
     font-size: large;
     font-weight: bold;
-    margin: 1em 2px 0;
+    margin: 1em 2px 3px;
 }
 
 p {
@@ -98,7 +98,7 @@ p {
     object-fit: cover;
     overflow: hidden;
     position: relative;
-    margin: 3px 0;
+    margin: 0;
 }
 
 .accent {
@@ -123,11 +123,39 @@ a {
     font-weight: 600;
 }
 
+/* contact */
+
+#hours th, td {
+    border-bottom: 1px solid lightgray;
+    text-align: right;
+}
+
+.details {
+    text-align: right;
+}
+
+#signup-form {
+    background-color: #F4E9E1;
+    margin-top: 0;
+    padding: 0 2px 4px;
+}
+
+/* page-break before element
+#signup-form input::before {
+    content: "\a";
+    white-space: pre;
+} */
+
+.input-text {
+    display: block;
+    margin: 0 2px;
+}
+
 /* Google Maps */
 
 #map-wrapper {
-    height: 250px;
-    margin-bottom: 10px;
+    height: 50vh;
+    margin-bottom: 10vh;
 }
 
 #map {
