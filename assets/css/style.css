@@ -72,8 +72,6 @@ footer i {
     text-decoration: none;
 } 
 
-
-
 /* main text */
 
 h1 {
@@ -175,7 +173,7 @@ input[type=submit]:hover {
 
 #signup-button {
     font-weight: bold;
-    margin: 0 4px;
+    margin: 0 4px 2px;
     border-color: lightgray;
     border-radius: 3px;
 }
