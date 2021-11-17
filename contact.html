@@ -137,25 +137,31 @@
             <img src="assets/images/writing.jpg"
             aria-label="A close-up on a hand writing a letter">
             <form method="post" action="https://formdump.codeinstitute.net/">
-                <h2>Sign up for more inspiration and offers:</h2>
+                <h2>
+                    Sign up 
+                <br>
+                    for more inspiration and offers:
+                </h2>
                 <label class="input-text" for="name">Name:</label>
-                <input class="input-text" id="name" name="customer_name" type="text" required>
+                <input class="input-box" id="name" name="customer_name" type="text" placeholder="your name" required>
 
                 <label class="input-text" for="email">Email address:</label>
-                <input class="input-text" id="email" name="customer_email" type="email" required>
+                <input class="input-box" id="email" name="customer_email" type="email" placeholder="your email" required>
 
                 <h2>You are interested in:</h2>
-                
-                <input id="rent" name="customer_interest" value="rent" type="radio" required checked>
-                <label for="rent">Campervan rent</label>
-
-                <input id="services" name="customer_interest" value="services" type="radio" required>
+                <p>
+                    <input class="radio-button" id="rent" name="customer_interest" value="rent" type="radio" required checked>
+                    <label for="rent">Campervan rent</label>
+                </p>
+                <p>
+                    <input class="radio-button" id="services" name="customer_interest" value="services" type="radio" required>
                 <label for="services">Garage services</label>
-
-                <input id="both" name="customer_interest" value="both" type="radio" required>
-                <label for="both">Both</label>
-                
-                <input class="input-text" type="submit" value="Let's roll!">
+                </p>
+                <p>
+                    <input class="radio-button" id="both" name="customer_interest" value="both" type="radio" required>
+                    <label for="both">Both</label>
+                </p>
+                <input id="signup-button" type="submit" value="Let's roll!">
             </form>
         </div>
         <div class="card">

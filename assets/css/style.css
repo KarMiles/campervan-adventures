@@ -101,6 +101,11 @@ p {
     margin: 0;
 }
 
+#signup-form img {
+    margin-bottom: -1rem;
+    border: 1px solid #F8F9FA;
+}
+
 .accent {
     -webkit-text-emphasis: triangle rgb(119, 31, 31);
     text-emphasis: triangle rgb(119, 31, 31);
@@ -132,23 +137,47 @@ a {
 
 .details {
     text-align: right;
+    line-height: 1em;
 }
 
 #signup-form {
     background-color: #F4E9E1;
-    margin-top: 0;
-    padding: 0 2px 4px;
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0 0 4px;
 }
-
-/* page-break before element
-#signup-form input::before {
-    content: "\a";
-    white-space: pre;
-} */
 
 .input-text {
     display: block;
-    margin: 0 2px;
+    margin: 0 3px;
+    width: 98%;
+    border: none;
+}
+
+.input-box {
+    display: block;
+    margin: 0 3px;
+    padding: 0.1rem 0.2rem;
+    width: 98%;
+    border: none;
+    border-radius: 3px;
+    font-family: 'Ovo', serif;
+}
+
+input[type=submit]:hover {
+    background-color: #e4a5b3;
+    border-radius: 3px;
+}
+
+.radio-button {
+    margin-left: 1rem;
+}
+
+#signup-button {
+    font-weight: bold;
+    margin: 0 4px;
+    border-color: lightgray;
+    border-radius: 3px;
 }
 
 /* Google Maps */
