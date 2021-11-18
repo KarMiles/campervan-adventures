@@ -72,7 +72,7 @@ footer i {
     text-decoration: none;
 } 
 
-/* main text */
+/* main text, welcome page */
 
 h1 {
     text-align: center;
@@ -124,6 +124,11 @@ a:link, a:visited, a:hover, a:active {
 a {
     color: rgb(119, 31, 31);
     font-weight: 600;
+}
+
+/* campervans page */
+
+#slides {
 }
 
 /* contact */
