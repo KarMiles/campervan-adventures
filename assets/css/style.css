@@ -138,6 +138,10 @@ a {
     line-height: 1em;
 }
 
+.details a {
+    font-weight: normal;
+}
+
 #signup-form {
     background-color: #F4E9E1;
     width: 100%;
