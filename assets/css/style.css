@@ -129,6 +129,7 @@ a {
 /* campervans page */
 
 #slides {
+    max-height: 50%;
 }
 
 /* contact */
