@@ -86,6 +86,19 @@ h2 {
     margin: 1em 2px 3px;
 }
 
+h3 {
+    font-size: medium;
+    font-weight: bold;
+    margin: 1em 2px 3px;
+}
+
+h4 {
+    font-size: medium;
+    font-weight: bold;
+    margin: 1em 2px 3px;
+    text-decoration: underline solid lightgray;
+}
+
 p {
     margin: 0.25em 2px 0.25em;
 }
