@@ -5,8 +5,6 @@
 body {
     font-family: 'Yuji Syuku', serif;
     color: #1e2c40;
-
-
 }
 
 /* header */
@@ -27,7 +25,6 @@ footer {
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 1%;
-    margin-top: 1%;
 }
 
 footer ul {
@@ -47,6 +44,10 @@ footer i {
     font-size: large;
 }
 
+footer a :hover {
+    color: black;
+}
+
 .footer-description {
     font-size: small;
     color: darkgray;
@@ -57,12 +58,14 @@ footer i {
     padding: 0 3px 5px;
 }
 
-/* footer fixed position */
-.footer {
-    position: fixed;
+/* footer position */
+#footer {
+    position: fixed; 
     left: 0;
     bottom: 0;
+    display: block;
     width: 100%;
+    margin-top: 5%;
 }
 
 /* Font Awesome fix */
@@ -72,7 +75,7 @@ footer i {
     text-decoration: none;
 } 
 
-/* main text, welcome page */
+/* main text */
 
 h1 {
     text-align: center;
@@ -146,7 +149,7 @@ a {
 /* campervans page */
 
 .slides {
-    width: 60%;
+    width: 40%;
     float: left;
     margin-right: 1%;
     margin: 1% 1% 0.5% 0;
@@ -216,7 +219,7 @@ input[type=submit]:hover {
 /* Google Maps */
 
 #map-wrapper {
-    height: 50vh;
+    height: 90vh;
     margin-bottom: 10vh;
 }
 
@@ -235,9 +238,11 @@ input[type=submit]:hover {
     h2, img {
         break-after: avoid-column;
     }
-    .footer {
+    #footer {
         position: static;
     }
+    .slides {
+        width: 60%;
 }
 
 /* smartphone screen */
@@ -245,7 +250,7 @@ input[type=submit]:hover {
     .article {
         column-count: 1;
     }
-    .footer {
+    #footer {
         position: static;
     }
     .slides {
