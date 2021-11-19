@@ -83,7 +83,7 @@ h1 {
 h2 {
     font-size: large;
     font-weight: bold;
-    margin: 1em 2px 3px;
+    margin: 1em 2px 0.1rem;
 }
 
 h3 {
@@ -145,9 +145,16 @@ a {
 
 /* campervans page */
 
-#slides {
+.slides {
     width: 60%;
     float: left;
+    margin-right: 1%;
+    margin: 1% 1% 0.5% 0;
+}
+
+.slides-description {
+    margin: -0.75rem 2px;
+    break-inside: avoid;
 }
 
 /* contact */
@@ -241,7 +248,7 @@ input[type=submit]:hover {
     .footer {
         position: static;
     }
-    #slides {
+    .slides {
         width: 100%;
     }
 }
