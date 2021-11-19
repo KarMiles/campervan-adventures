@@ -243,6 +243,7 @@ input[type=submit]:hover {
     }
     .slides {
         width: 60%;
+    }
 }
 
 /* smartphone screen */
@@ -257,6 +258,3 @@ input[type=submit]:hover {
         width: 100%;
     }
 }
-
-
-
