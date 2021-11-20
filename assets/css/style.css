@@ -214,6 +214,12 @@ a {
     display: inline-block;
 }
 
+/* faq */
+#faq {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 10%;
+}
+
 /* contact */
 #hours th,td {
     border-bottom: 1px solid lightgray;
