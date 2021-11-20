@@ -175,7 +175,6 @@ a {
 }
 
 /* campervans page */
-
 .slides {
     width: 40%;
     float: left;
@@ -188,10 +187,35 @@ a {
     break-inside: avoid;
 }
 
+/* garage */
+#garage {
+    background: url("../images/garage.jpg") no-repeat center center;
+    background-color: #F4E9E1;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+#garage div {
+    background-color: rgba(255,255,255, 0.5);
+    width: 20%;
+    height: 250px;
+    float: left;
+    padding: 5px;
+    border: 3px solid white;
+    box-sizing: border-box;
+}
+
+#garage h2 {
+    background-color: rgba(255,255,255, 0.5);
+    padding: 0.25rem 1rem 0.25rem 0.25rem;
+    display: inline-block;
+}
 
 /* contact */
-
-#hours th, td {
+#hours th,td {
     border-bottom: 1px solid lightgray;
     text-align: right;
 }
@@ -280,5 +304,11 @@ input[type=submit]:hover {
 
     .slides {
         width: 100%;
+    }
+
+    #garage div {
+        width: 100%;
+        clear: both;
+        padding: 1%;
     }
 }
