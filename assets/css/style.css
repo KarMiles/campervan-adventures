@@ -206,6 +206,7 @@ a {
     padding: 0 2px;
     border: 3px solid white;
     box-sizing: border-box;
+    border-radius: 10px;
 }
 
 #garage h2 {
@@ -310,5 +311,6 @@ input[type=submit]:hover {
         width: 100%;
         clear: both;
         padding: 1%;
+        height: 180px;
     }
 }
