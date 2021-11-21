@@ -168,6 +168,7 @@ Company logo will always be visible in the navigation section and will lead to h
 This project has been realised using the following technologies:
 * HTML5
 * CSS3
+* JavaScript (Bootstrap solutions for responsive navigation and carousel)
 
 # Frameworks, Libraries and Programs used
 This project has been realised using the following frameworks, programs and webpages:
@@ -198,7 +199,6 @@ The following validators will be used for testing code correctness:
 * [W3C Markup Validator](https://validator.w3.org/) (*link to results wil appear here*)
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) (*link to results will appear here*)
 
-
 *User Experience (UX) testing*
 
 * Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is)
@@ -206,6 +206,12 @@ The following validators will be used for testing code correctness:
 * Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
 * Goal 5: Peer code review at Slack (#peer-code-review).
+
+# Bugs and changes to original design
+During realisation of the project the following obstacles were met and changes to original design introduced:
+* Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added a section wrapping  the page content. 
+* Order of content slightly changed for better visibility; map visible on all screen.
+* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided to devide content into slates, adhering to responsive design practice.
 
 # Credits
 * Code

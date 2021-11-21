@@ -19,12 +19,26 @@ body {
     width: 32px;
 }
 
+.page-wrapper {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 /* footer */
 
 footer {
+    width: 100vh;
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 1%;
+    height: 60px;
+    /*position: fixed; */
+    left: 0;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    margin-top: 5%;
 }
 
 footer ul {
@@ -56,17 +70,6 @@ footer a :hover {
 .footer-description p {
     margin: 0;
     padding: 0 3px 5px;
-}
-
-/* footer position */
-#footer {
-    height: 60px;
-    /*position: fixed; */
-    left: 0;
-    bottom: 0;
-    display: block;
-    width: 100%;
-    margin-top: 5%;
 }
 
 /* Font Awesome fix */
