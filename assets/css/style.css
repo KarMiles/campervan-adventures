@@ -180,7 +180,9 @@ a {
 
 /* campervans page */
 .campervan-expose {
-    margin-top: 2rem;
+    margin: 2rem 0;
+    border-top: lightgrey solid 1px;
+    clear: both;
 }
 
 .slides {
