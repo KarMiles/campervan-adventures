@@ -19,7 +19,7 @@ body {
     width: 32px;
 }
 
-.page-wrapper {
+.content-wrapper {
     display: block;
     width: 100%;
     margin-bottom: 10px;
@@ -39,6 +39,7 @@ footer {
     display: block;
     width: 100%;
     margin-top: 5%;
+    clear: both;
 }
 
 footer ul {
@@ -308,7 +309,7 @@ input[type=submit]:hover {
 /* Google Maps */
 
 #map-wrapper {
-    height: 85vh;
+    height: 80vh;
 }
 
 #map {

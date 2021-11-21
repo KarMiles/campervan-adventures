@@ -209,9 +209,9 @@ The following validators will be used for testing code correctness:
 
 # Bugs and changes to original design
 During realisation of the project the following obstacles were met and changes to original design introduced:
-* Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added a section wrapping  the page content. 
+* Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
 * Order of content slightly changed for better visibility; map visible on all screen.
-* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided to devide content into slates, adhering to responsive design practice.
+* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: devided content into slates, adhering to responsive design practice.
 
 # Credits
 * Code
