@@ -214,12 +214,20 @@ a {
 }
 
 /* faq */
-#faq {
+#faq-accordion {
     font-family: 'Allerta Stencil', sans-serif;
     margin: 0 10%;
  }
 
- #faq a {
+ #faq-image {
+    background: url("../images/faq.jpg") no-repeat center center;
+    background-size: 100%;
+    height: 25vh;
+}
+
+#faq-image
+
+ #faq-accordion a {
      font-weight: normal;
  }
 
@@ -320,7 +328,7 @@ input[type=submit]:hover {
         width: 60%;
     }
 
-    #faq {
+    #faq-accordion {
         margin: 0 3%;
     }
 }
@@ -342,7 +350,7 @@ input[type=submit]:hover {
         height: 180px;
     }
 
-    #faq {
+    #faq-accordion {
         margin: 0 1%;
     }
 }
