@@ -192,6 +192,11 @@ a {
     margin: 1% 1% 0.5% 0;
 }
 
+.campervan-name {
+    color: rgb(119, 31, 31);
+    font-size: larger;
+}
+
 .slides-description {
     margin: -0.75rem 2px;
     break-inside: avoid;
