@@ -184,6 +184,7 @@ This project has been realised using the following frameworks, programs and webp
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
 * [W3 School](https://www.w3schools.com/)
+* [C#Corner](https://www.c-sharpcorner.com/blogs/accordion-using-html-5) - for tutorial on HTML5-based accordion
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
