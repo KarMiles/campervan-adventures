@@ -179,6 +179,10 @@ a {
 }
 
 /* campervans page */
+.campervan-expose {
+    margin-top: 2rem;
+}
+
 .slides {
     width: 40%;
     float: left;
