@@ -131,14 +131,14 @@ p {
 
 #welcome-image {
     width: 100%;
-    height: 30vh;
+    height: 33vh;
     overflow: hidden;
     position: relative;
 }
 
 #welcome-subdiv {
     width: 100%;
-    height: 30vh;
+    height: 33vh;
     background: url("../images/welcome-landscape.jpg") no-repeat center center;
     /* animation for welcome image */
     animation-name: welcome-animation;
@@ -211,7 +211,7 @@ a {
 #garage-image {
     background: url("../images/garage-mechanic.jpg") no-repeat center center;
     background-size: 100%;
-    height: 30vh;
+    height: 33vh;
 }
 
 #garage-services {
@@ -248,7 +248,7 @@ a {
  #faq-image {
     background: url("../images/faq.jpg") no-repeat center center;
     background-size: 100%;
-    height: 30vh;
+    height: 33vh;
 }
 
 #faq-image
@@ -336,6 +336,7 @@ input[type=submit]:hover {
 
 #map-wrapper {
     height: 80vh;
+    margin-top: 1%;
 }
 
 #map {
