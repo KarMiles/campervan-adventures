@@ -8,7 +8,6 @@ body {
 }
 
 /* header */
-
 #logo {
     height: 60px;
     width: 60px;
@@ -246,7 +245,7 @@ a {
  }
 
  #faq-image {
-    background: url("../images/faq.jpg") no-repeat center center;
+    background: url("../images/compass.jpg") no-repeat center center;
     background-size: 100%;
     height: 33vh;
 }
