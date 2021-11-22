@@ -131,14 +131,14 @@ p {
 
 #welcome-image {
     width: 100%;
-    height: 25vh;
+    height: 30vh;
     overflow: hidden;
     position: relative;
 }
 
 #welcome-subdiv {
     width: 100%;
-    height: 25vh;
+    height: 30vh;
     background: url("../images/welcome-landscape.jpg") no-repeat center center;
     /* animation for welcome image */
     animation-name: welcome-animation;
@@ -207,8 +207,14 @@ a {
     break-inside: avoid;
 }
 
-/* garage */
-#garage {
+/* garage page */
+#garage-image {
+    background: url("../images/garage-mechanic.jpg") no-repeat center center;
+    background-size: 100%;
+    height: 30vh;
+}
+
+#garage-services {
     background: url("../images/garage.jpg") no-repeat center center;
     background-color: #F4E9E1;
     background-size: cover;
@@ -217,7 +223,7 @@ a {
     font-family: 'Allerta Stencil', sans-serif;
 }
 
-#garage div {
+#garage-services div {
     background-color: rgba(255,255,255, 0.7);
     width: 16.666%;
     height: 300px;
@@ -227,7 +233,7 @@ a {
     box-sizing: border-box;
 }
 
-#garage h2 {
+#garage-services h2 {
     background-color: rgba(255,255,255, 0.5);
     padding: 0.25rem 1rem 0.25rem 0.25rem;
     display: inline-block;
@@ -242,7 +248,7 @@ a {
  #faq-image {
     background: url("../images/faq.jpg") no-repeat center center;
     background-size: 100%;
-    height: 25vh;
+    height: 30vh;
 }
 
 #faq-image
@@ -367,7 +373,7 @@ input[type=submit]:hover {
         width: 100%;
     }
 
-    #garage div {
+    #garage-services div {
         width: 100%;
         clear: both;
         padding: 1.5%;
