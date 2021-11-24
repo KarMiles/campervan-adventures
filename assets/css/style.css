@@ -384,7 +384,8 @@ input[type=submit]:hover {
         margin: 0 1%;
     }
 
-    .card {
+    .card th,td {
         padding: 0 1%;
     }
+
 }
