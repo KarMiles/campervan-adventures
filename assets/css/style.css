@@ -383,4 +383,8 @@ input[type=submit]:hover {
     #faq-accordion {
         margin: 0 1%;
     }
+
+    .card {
+        padding: 0 1%;
+    }
 }
