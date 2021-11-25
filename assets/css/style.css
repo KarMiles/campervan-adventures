@@ -157,7 +157,7 @@ p {
 .accent {
     color: rgb(119, 31, 31);
     text-align: center;
-    margin: 2% 2px -1rem;
+    margin: 2% 2px -1.25rem;
     font-size: small;
 }
 
