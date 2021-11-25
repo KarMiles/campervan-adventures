@@ -155,11 +155,10 @@ p {
 
 /* three-triangular accent above page title */
 .accent {
-    -webkit-text-emphasis: triangle rgb(119, 31, 31);
-    text-emphasis: triangle rgb(119, 31, 31);
-    color: rgba(255, 255, 255, 0);
+    color: rgb(119, 31, 31);
     text-align: center;
-    margin: 2% 2px -2.5rem;
+    margin: 2% 2px -1rem;
+    font-size: small;
 }
 
 /* avoid breaking up text between columns */
