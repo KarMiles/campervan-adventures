@@ -8,6 +8,7 @@ body {
 }
 
 /* header */
+
 #logo {
     height: 60px;
     width: 60px;
@@ -31,13 +32,10 @@ footer {
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 1%;
+    margin-top: 5%;
     height: 60px;
-    /*position: fixed; */
-    left: 0;
-    bottom: 0;
     display: block;
     width: 100%;
-    margin-top: 5%;
     clear: both;
 }
 
@@ -71,13 +69,6 @@ footer a :hover {
     margin: 0;
     padding: 0 3px 5px;
 }
-
-/* Font Awesome fix */
-.fab {
-    font-family: fontawesome !important;
-    font-style: normal;
-    text-decoration: none;
-} 
 
 /* main text */
 
@@ -160,6 +151,7 @@ p {
     border: 1px solid #F8F9FA;
 }
 
+/* three-triangular accent above page title */
 .accent {
     -webkit-text-emphasis: triangle rgb(119, 31, 31);
     text-emphasis: triangle rgb(119, 31, 31);
@@ -168,6 +160,7 @@ p {
     margin: 1% 2px -1.5em;
 }
 
+/* avoid breaking up text between columns */
 .card {
     break-inside: avoid;
     border: 0;
@@ -182,13 +175,14 @@ a {
     font-weight: 600;
 }
 
-/* campervans page */
+/* campervan description section (slides+description) */
 .campervan-expose {
     margin: 2rem 0;
     border-top: lightgrey solid 1px;
     clear: both;
 }
 
+/* campervan Bootstrap carousel */
 .slides {
     width: 40%;
     float: left;
@@ -196,6 +190,7 @@ a {
     margin: 1% 1% 0.5% 0;
 }
 
+/* name of campervan */
 .attention {
     color: rgb(119, 31, 31);
     font-size: larger;
@@ -213,6 +208,7 @@ a {
     height: 33vh;
 }
 
+/* block of squares with services */
 #garage-services {
     background: url("../images/garage.jpg") no-repeat center center;
     background-color: #F4E9E1;
@@ -222,6 +218,7 @@ a {
     font-family: 'Allerta Stencil', sans-serif;
 }
 
+/* individual square */
 #garage-services div {
     background-color: rgba(255,255,255, 0.7);
     width: 16.666%;
@@ -254,7 +251,7 @@ a {
 
  #faq-accordion a {
      font-weight: normal;
- }
+}
 
 details {
     background: #eee;
@@ -332,7 +329,6 @@ input[type=submit]:hover {
 }
 
 /* Google Maps */
-
 #map-wrapper {
     height: 80vh;
     margin-top: 1%;
@@ -363,7 +359,7 @@ input[type=submit]:hover {
     }
 }
 
-/* smartphone screen */
+/* small screen */
 @media screen and (max-width: 575px) {
     .article {
         column-count: 1;
