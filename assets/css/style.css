@@ -62,7 +62,7 @@ footer a :hover {
 
 .footer-description {
     font-size: small;
-    color: dimgray;
+    color: #0000008C;
 }
 
 .footer-description p {
@@ -157,9 +157,9 @@ p {
 .accent {
     -webkit-text-emphasis: triangle rgb(119, 31, 31);
     text-emphasis: triangle rgb(119, 31, 31);
-    color: white;
+    color: rgba(255, 255, 255, 0);
     text-align: center;
-    margin: 1% 2px -1.5em;
+    margin: 2% 2px -2.5rem;
 }
 
 /* avoid breaking up text between columns */
