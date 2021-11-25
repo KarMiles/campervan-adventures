@@ -32,8 +32,7 @@
                 <a href="index.html" class="navbar-brand">
                     <img id="logo" src="assets/images/campervan-adventures-logo.gif" alt="Campervan Adventures logo" aria-label="Campervan Adventures logo">
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
@@ -62,50 +61,110 @@
         ___
     </p>
     <h1>
-        Campervan Adventures
+        Cul de sac!
     </h1>
     <!-- end of page title -->
 
-    <!-- page theme image with animation -->
-    <section id="welcome-image">
-        <div id="welcome-subdiv"></div>
-    </section>
+    <!-- page theme image -->
+    <div id="error404-image"></div>
 
     <!-- page main content -->
+    <section id="error404-message">
+        <p>
+            We're sorry, this page is not available.
+        </p>
+        <p>
+            Please return to our 
+        </p>
+        <p>    
+            <a href="index.html">Home page</a>
+        </p>
+        <p>
+            or contact us directly: 
+        </p>
+    </section>
+
     <section class="article">
         <div class="card">
+            <!-- contact details -->
             <h2>
-                About Us
+                <i class="fas fa-clock"></i>
+                | Opening times
             </h2>
-            <a href="contact.html">
-                <img src="assets/images/about-us.jpg" alt="Group of people having a picnic in a sunny park in front of a campervan" aria-label="Group of people having a picnic in a sunny park in front of a campervan">
-            </a>
-            <p>
-                <strong>Welcome to Campervan Adventures! </strong>We are a small family business situated in the Midlands, England. We are passionate about Campervans, Motor Homes, VanLive and everything related. <a href="contact.html">Contact us</a> about your campervan holiday plans!
-            </p>
+            <table id="hours">
+                <tr>
+                    <th>
+                        Days
+                    </th>
+                    <th>
+                        From
+                    </th>
+                    <th>
+                        To
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        Monday - Friday
+                    </td>
+                    <td>
+                        9:00
+                    </td>
+                    <td>
+                        17:00
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Saturday & Sunday
+                    </td>
+                    <td>
+                        10:00
+                    </td>
+                    <td>
+                        16:00
+                    </td>
+                </tr>
+            </table>
         </div>
         <div class="card">
             <h2>
-                Campervans
+                Phone & Email
             </h2>
-            <a href="campervans.html">
-                <img src="assets/images/campervans.jpg" alt="Series of vintage campervans standing one behind another" aria-label="Series of vintage campervans standing one behind another">
-            </a>
-            <p>
-                Let us share our passion with you by renting you out one of our campervans! Our vehicles are checked for safety and fully certified for habitation. Visit our <a href="campervans.html">Campervans </a> section!
+            <p class="details">
+                Tel. +44 555 123 456
+            </p>
+            <p class="details">    
+                e-mail: <a href="mailto:e-mail: nowhere@campadv.cool">nowhere@campadv.cool</a>
+            </p>
+            <h2>
+                Address
+            </h2>
+            <p class="details">
+                777 Belle View Rd
+            </p>
+            <p class="details">
+                WER A0K, Travelston
+            </p class="details">
+            <p class="details">
+                England, UK
             </p>
         </div>
+        
         <div class="card">
             <h2>
-                Garage
+                <i class="fas fa-shuttle-van"></i>
+                | How  to get here
             </h2>
-            <a href="garage.html">
-                <img src="assets/images/garage.jpg" alt="Engine in a garage" aria-label="Engine in a garage">
-            </a>
             <p>
-                All our vehicles are carefully taken care of by our professional Garage crew. The crew may also be able to help if you need an upgrade to your own home on wheels. For more details see our <a href="garage.html">Garage</a> section!
+            To find us on Google Maps please click <a href="https://goo.gl/maps/DJSE6GMtMioqGcDk7" target="_blank">here</a> or use map below. 
             </p>
         </div>
+    </section>
+    
+    <!-- google maps -->
+    <section id="map-wrapper">
+        <iframe id="map" src="https://bit.ly/3CmFD6b" width="100%" height="400"></iframe>
     </section>
     <!-- end of main page content -->
 
