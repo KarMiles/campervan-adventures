@@ -135,34 +135,39 @@
             <img src="assets/images/writing.jpg" alt="A close-up on a hand writing a letter" aria-label="A close-up on a hand writing a letter">
 
             <!-- sign up form -->
-            <form method="post" action="https://formdump.codeinstitute.net/">
-                <h2>
-                    <i class="fas fa-paper-plane"></i> | Sign up 
-                </h2>    
-                <h5>
-                    for more inspiration and offers:
-                </h5>
-                <label class="input-text" for="name">Name:</label>
-                <input class="input-box" id="name" name="customer_name" type="text" placeholder="your name" required>
+            <fieldset>
+                <legend>
+                    <h2>
+                        <i class="fas fa-paper-plane"></i> | Sign up 
+                    </h2>    
+                    <h5>
+                        for more inspiration and offers:
+                    </h5>
+                </legend>
+                <form method="post" action="https://formdump.codeinstitute.net/">
+                    
+                    <label class="input-text" for="name">Name:</label>
+                    <input class="input-box" id="name" name="customer_name" type="text" placeholder="your name" required>
 
-                <label class="input-text" for="email">Email address:</label>
-                <input class="input-box" id="email" name="customer_email" type="email" placeholder="your email" required>
+                    <label class="input-text" for="email">Email address:</label>
+                    <input class="input-box" id="email" name="customer_email" type="email" placeholder="your email" required>
 
-                <h5>You are interested in:</h5>
-                <p>
-                    <input class="radio-button" id="rent" name="customer_interest" value="rent" type="radio" required checked>
-                    <label for="rent">Campervan rent</label>
-                </p>
-                <p>
-                    <input class="radio-button" id="services" name="customer_interest" value="services" type="radio" required>
-                <label for="services">Garage services</label>
-                </p>
-                <p>
-                    <input class="radio-button" id="both" name="customer_interest" value="both" type="radio" required>
-                    <label for="both">Both</label>
-                </p>
-                <input id="signup-button" type="submit" value="Let's roll!">
-            </form>
+                    <h5>You are interested in:</h5>
+                    <p>
+                        <input class="radio-button" id="rent" name="customer_interest" value="rent" type="radio" required checked>
+                        <label for="rent">Campervan rent</label>
+                    </p>
+                    <p>
+                        <input class="radio-button" id="services" name="customer_interest" value="services" type="radio" required>
+                    <label for="services">Garage services</label>
+                    </p>
+                    <p>
+                        <input class="radio-button" id="both" name="customer_interest" value="both" type="radio" required>
+                        <label for="both">Both</label>
+                    </p>
+                    <input id="signup-button" type="submit" value="Let's roll!">
+                </form>
+            </fieldset>
         </div>
         <div class="card">
             <h2>
