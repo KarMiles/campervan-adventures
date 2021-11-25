@@ -1,7 +1,6 @@
 /* Google Fonts used: Yuji Syuku, Allerta Stencil */ 
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Yuji+Syuku&display=swap');
 
-
 body {
     font-family: 'Yuji Syuku', serif;
     color: #1e2c40;
@@ -271,7 +270,6 @@ details > summary {
 details > p {
     color: #444;
     padding: 6px 13px 0;
-    
 }
 
 /* contact */
@@ -402,5 +400,4 @@ input[type=submit]:hover {
     .card th,td {
         padding: 0 1%;
     }
-
 }
