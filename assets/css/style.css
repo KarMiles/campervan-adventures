@@ -157,7 +157,7 @@ p {
 .accent {
     color: rgb(119, 31, 31);
     text-align: center;
-    margin: 2% 2px -1.25rem;
+    margin: 1% 2px -1.25rem;
     font-size: small;
 }
 
@@ -353,6 +353,7 @@ input[type=submit]:hover {
 
 #error-message {
     border-bottom: lightgrey solid 1px;
+    margin-bottom: 1rem;
 }
 
 #error-message > p {
