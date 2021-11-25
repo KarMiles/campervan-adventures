@@ -189,7 +189,7 @@ a {
     width: 40%;
     float: left;
     margin-right: 1%;
-    margin: 1% 1% 0.5% 0;
+    margin: 1% 1% 1% 0;
 }
 
 .slides h2 {
@@ -200,7 +200,6 @@ a {
 .attention {
     color: rgb(119, 31, 31);
     font-size: larger;
-    margin-top: 3rem;
 }
 
 .slides-description {
