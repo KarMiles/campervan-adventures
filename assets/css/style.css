@@ -76,13 +76,13 @@ footer a :hover {
 h1 {
     text-align: center;
     font-weight: bold;
-    margin: 0.75em, 2px;
+    margin: 0.75em 2px;
 }
 
 h2 {
     font-size: large;
     font-weight: bold;
-    margin: 1em 2px 0.1rem;
+    margin: 0.5rem 2px 0.1rem;
 }
 
 h3 {
@@ -149,7 +149,7 @@ p {
 }
 
 #signup-form img {
-    margin-bottom: -1rem;
+    margin-bottom: -0.25rem;
     border: 1px solid #F8F9FA;
 }
 
@@ -367,9 +367,6 @@ input[type=submit]:hover {
 @media screen and (max-width: 1080px) {
     .article {
         column-count: 2;
-    }
-    h2, img {
-        break-after: avoid-column;
     }
 
     .slides {

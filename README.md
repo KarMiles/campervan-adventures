@@ -199,7 +199,7 @@ The following validators will be used for testing code correctness:
 * [W3C Markup Validator](https://validator.w3.org/) *links to results:*
 
 [Main page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkarmiles.github.io%2Fcampervan-adventures%2F), 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) (*link to results will appear here*)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator) (*link to results will appear here*)
 
 *User Experience (UX) testing*
 
