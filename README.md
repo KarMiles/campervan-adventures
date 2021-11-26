@@ -8,41 +8,46 @@ This webpage is the showcase for a company Campervan Adventures with the intenti
 
 [Life webpage](https://karmiles.github.io/campervan-adventures/index.html)
 
-# User Experience (UX)
+
 
 **Project preparation**
 
 The Campervan Adventures site was designed using the Five Planes of User Experience approach. Below are represented the steps taken during the preparation of the site, going from the most abstract to the most concrete.
+# Plane 1. Strategy
 
-1. Strategy
+## Project Goals
+### Owner’s goals
 
-**Project Goals**
+- Create online presence for Campervan Adventures in order to increase their rental turnover via visitors’ engagement and customer loyalty. 
+- Provide customers with means necessary to contact the company.
 
-In preparing the project the following goals were taken into account:
+### Users' goals
+- See how holiday in a campervan can be appealing.
+- Contact the company about rental.
+- Get more information and inspiration to follow on.
+- Check what is needed for campervan holiday.
+- See what vehicles are available.
+- Rent a vehicle.
 
-*Owner’s goals*
+## User Experience (UX)
 
-The webpage owner’s goal is to create online presence for Campervan Adventures in order to increase their rental turnover via visitors’ engagement and customer loyalty. 
+### User stories:
 
-*User's goals*
+First Time Visitor's goals:
 
-When preparing the webpage I considered User's goals through the following User stories:
+1. As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. <!--**Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.) -->
 
-*First Time Visitor's goals:*
+First Time or Returning Visitor Goals:
 
-* As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. <!--**Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.) -->
+2. As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to the physical address. 
+3. As a Visitor I want to subscribe to email newsletter. **End user goal:** Stay in contact for further information and inspiration. **End business goal:** Build and maintain customer loyalty through customer engagement. **Acceptance criteria:** Obtain customer contact information via email and optionally telephone number. 
+4. As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
+5. As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
+6. As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
 
-*First Time or Returning Visitor Goals:*
+### Focus (What is worth doing?)
 
-* As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to the physical address. 
-* As a Visitor I want to subscribe to email newsletter. **End user goal:** Stay in contact for further information and inspiration. **End business goal:** Build and maintain customer loyalty through customer engagement. **Acceptance criteria:** Obtain customer contact information via email and optionally telephone number. 
-* As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
-* As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
-* As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
-
-**Focus / What is worth doing?**
-
-With Owner’s goals in mind and Users’ goals and scenarios taken into consideration the following opportunities were assessed at the initial roll-out:
+Opportunities assessed at the initial roll-out:
 
 | No. | Opportunity / problem                                                | Importance<br>(1 - 5 most important) | Viability / Feasibility (1– 5 most feasible) | Focus ratio |
 | --- | -------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ----------- |
@@ -53,41 +58,43 @@ With Owner’s goals in mind and Users’ goals and scenarios taken into conside
 | 5   | Presenting company's services                    | 3                                    | 4                                            | 43%         |
 | 6   | Rent online                                                          | 4                                    | 1                                            | 9%          |
 
-I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph. 
+I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph (red area). 
+<details>
+    <summary>Importance / Viability graph</summary>
+    <img src="docs/feasibility-graph.png">
+</details>
 
-![Code Institute Feasibility graph](assets/images/feasibility-graph.png)
-
-Basing on the above analysis the initial roll-out follows on opportunities 1 through 4 as most important and feasible and as such are addressed in the project. 
+Basing on the above analysis the initial roll-out follows on opportunities 1 through 5 as most important and feasible and as such are addressed in the project. 
 
 **Definition**
 
-The webpage is an online presence for Campervan Adventures showcasing the attractiveness of campervan holidays and encouraging visitors to contact the company.
+The "Campervan Adventures" webpage is an online presence for Campervan Adventures company showcasing the attractiveness of campervan holidays and encouraging visitors to contact the company.
 
 **Value**
 
 The value of the project for the owner lies in increased rental turnover achieved through enhanced visitor’s engagement and deepened customer loyalty resulting in repeat orders.
 The value for the visitor lies in getting familiar with the world of campervan holidays and getting an opportunity to realize this vision. 
 
-2. Scope
+# Plane 2. Scope
 
-**Objective requirements**
+## Objective requirements
 
 Visitor wants to find out about spending holidays in a campervan with the possibility of realising this idea.
 
-**Functional specifications**
+## Functional specifications
 
 Visitor uses site navigation to find the information presented on the webpage. To sign up for a newsletter the visitor needs to enter their personal information. 
 
-**Content requirements**
+## Content requirements
 
 Webpage need to contain:
-* Introduction and pictures representing holidays in a campervan
-* Company’s offer with pictures of vehicles and their description
+* Introduction and pictures representing holidays in a campervan.
+* Company’s offer with pictures of vehicles and their description.
 * Ability to contact the company via email, social media and telephone.
-* Possibility to sign up to the newsletter
-* Presenting company's services.
+* Possibility to sign up to a newsletter.
+* Presentation of company's services.
 
-**Campervan Adventures project rollout**
+## Campervan Adventures project rollout
 
 |   | **Feature**                                                           | **Difficulty (1 – 3 most difficult)** | **Release** |
 | - | --------------------------------------------------------------------- | ------------------------------------- | ----------- |
@@ -102,19 +109,19 @@ This rollout concentrates on features bringing maximum value to the owner and th
 
 Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
 
-3. Structure
+# Plane 3. Structure
 
 The information is prioritised in the following order:
-*	Presentation of the holidays in a campervan
-*	Company offer
-*	Contact section
-*	Possibility to sign up for the newsletter.
+1.	Company offer
+2.	Contact section
+3.	Possibility to sign up for the newsletter.
+4.	Presentation of the holidays in a campervan
 
 Webpage has three main semantic sections: 
 
-*	**Navigation bar** at the top of the page is conveniently available to the user at all times and contains links to: Home page, Our Campervans and Contact Us which show in the main section.
+1.	**Navigation bar** at the top of the page is conveniently available to the user at all times and contains links to pages: Home, Campervans, Garage, FAQ and Contact Us.
 
-*	**Main section in the middle**
+2.	**Main section** in the middle
 
     * Landing page - shows a short welcome and description of the company (About Us) and it's offerings (Campervans and Garage).
     
@@ -126,45 +133,42 @@ Webpage has three main semantic sections:
 
     * Contact Me - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section.
 
-*	**Footer** with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
+3.	**Footer** present at the bottom of each page, with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
 
-4. Skeleton
+# Plane 4. Skeleton
 
-Site low-fidelity prototypes were created in three versions for various screen sizes: smartphone, tablet and Personal Computer to maintain website responsiveness on various screen sizes. For this purpose I used Balsamiq tool.  
+Site low-fidelity prototypes were created in three versions for various screen sizes: small/smartphone, medium/tablet and large/PC to maintain website responsiveness on various screen sizes:
 
-**Home** page wireframes:
+<details>
+    <summary>Home</summary>
+    <img src="docs/wireframes/wireframe-home.png">
+</details>
+<details>
+    <summary>Campervans</summary>
+    <img src="docs/wireframes/wireframe-campervans.png">
+</details>
+<details>
+    <summary>Garage</summary>
+    <img src="docs/wireframes/wireframe-garage.png">
+</details>
+<details>
+    <summary>FAQ</summary>
+    <img src="docs/wireframes/wireframe-faq.png">
+</details>
+<details>
+    <summary>Contact</summary>
+    <img src="docs/wireframes/wireframe-contact.png">
+</details>
 
-![Home page wireframes](assets/images/wireframe-home.png)
+# Plane 5. Surface
 
-**Campervans** wireframes:
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a landscape with a campervan. Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of hints of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to Volkswagen campervan heritage.
+<details>
+    <summary>Colour palette</summary>
+    <img src="docs/color-pallette.jpg">
+</details>
 
-This page uses carousele component for rotation of images.  
-
-![Campervans wireframes](assets/images/wireframe-campervans.png)
-
-**Garage** wireframes:
-
-This page uses Tab Bar component to navigate among various services offered by the company's garage.
-
-![Garage wireframes](assets/images/wireframe-garage.png)
-
-**FAQ** wireframes:
-
-This page uses form for Acordion component for efficient usage of the web page space.
-
-![Contact Us wireframes](assets/images/wireframe-faq.png)
-
-**Contact Us** wireframes:
-
-This page uses form for collecting user's data and Google Maps for navigation.
-
-![Contact Us wireframes](assets/images/wireframe-contact.png)
-
-5. Surface
-
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a landscape with a campervan. Navigational elements in the header and footer will be placed on white background and will be using pallette inspired by the summer colours of blue sky and hay. The pallette is compiled using [Colormind](http://colormind.io/) webpage. 
-
-Active element will be marked with a distinct colour to help visitor in navigation.
+Navigation on the page will be done through well-known navigation bar to make the experience intuitive. Active element in the navigation bar will be marked to help visitor in navigation.
 
 Company logo will always be visible in the navigation section and will lead to home page.
 
@@ -172,7 +176,7 @@ Company logo will always be visible in the navigation section and will lead to h
 This project has been realised using the following technologies:
 * HTML5
 * CSS3
-* JavaScript (Bootstrap solutions for responsive navigation and carousel)
+* JavaScript (Bootstrap solutions for responsive navigation and carousel only)
 
 # Frameworks, Libraries and Programs used
 This project has been realised using the following frameworks, programs and webpages:
@@ -194,24 +198,85 @@ This project has been realised using the following frameworks, programs and webp
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
 
-Link to live site will be *here*. 
+[GitHub repository](https://github.com/KarMiles/campervan-adventures ) 
 
 # Testing
-*Validators*
+## Validators
 
-The following validators will be used for testing code correctness:
-* [W3C Markup Validator](https://validator.w3.org/) *links to results:*
+The following validators were used for testing code correctness:
+* [W3C Markup Validator](https://validator.w3.org/) 
 
-[Main page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkarmiles.github.io%2Fcampervan-adventures%2F), 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator) (*link to results will appear here*)
+No errors or warnings were found throughout the site.
+<details>
+    <summary>Home</summary>
+    <img src="docs/validation/validation-html-index.jpg">
+</details>
+<details>
+    <summary>Campervans</summary>
+    <img src="docs/validation/validation-html-campervans.jpg">
+</details>
+<details>
+    <summary>Garage</summary>
+    <img src="docs/validation/validation-html-garage.jpg">
+</details>
+<details>
+    <summary>FAQ</summary>
+    <img src="docs/validation/validation-html-faq.jpg">
+</details>
+<details>
+    <summary>Contact</summary>
+    <img src="docs/validation/validation-html-contact.jpg">
+</details>
 
-*User Experience (UX) testing*
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
 
-* Goal 1: Optimal visibility and functionality on various devices will be tested using [Responsive Designs](http://ami.responsivedesign.is)
-* Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-* Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
-* Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
-* Goal 5: Peer code review at Slack (#peer-code-review).
+No errors were found. Reported warnings are related to Bootstrap and Font Owesome solutions.
+<details>
+    <summary>CSS Validation</summary>
+    <img src="docs/validation/validation-css.jpg">
+</details>
+<details>
+    <summary>Bootstrap</summary>
+    <img src="docs/validation/validation-css-bootstrap.jpg">
+</details>
+<details>
+    <summary>Font Owesome</summary>
+    <img src="docs/validation/validation-css-fontawesome.jpg">
+</details>
+
+## User Experience (UX) testing
+
+Goal 1: Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is)
+
+Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+<details>
+    <summary>Home</summary>
+    <img src="docs/validation/validation-accessibility-index.jpg">
+    Web accessibility alerts indicated a repeated links. These are important for optimal user experience in this case.
+</details>
+<details>
+    <summary>Campervans</summary>
+    <img src="docs/validation/validation-accessibility-campervans.jpg">
+    Alerts related to Campervans page indicated to repeated alternative texts in carousel. This is due to similar nature of images in the carousel.
+</details>
+<details>
+    <summary>Garage</summary>
+    <img src="docs/validation/validation-accessibility-garage.jpg">
+</details>
+<details>
+    <summary>FAQ</summary>
+    <img src="docs/validation/validation-accessibility-faq.jpg">
+</details>
+<details>
+    <summary>Contact</summary>
+    <img src="docs/validation/validation-accessibility-contact.jpg">
+</details>
+
+Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
+
+Goal 5: Peer code review at Slack (#peer-code-review).
 
 # Bugs and changes to original design
 During realisation of the project the following obstacles were met and changes to original design introduced:
