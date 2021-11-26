@@ -31,7 +31,7 @@ footer {
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 1%;
-    margin-top: 5%;
+    margin-top: 2%;
     height: 60px;
     display: block;
     width: 100%;
@@ -162,8 +162,9 @@ p {
 
 /* avoid breaking up text between columns */
 .card {
-    break-inside: avoid;
     border: 0;
+    break-inside: avoid;
+    overflow: hidden; /* fix for firefox */
 }
 
 a:link, a:visited, a:hover, a:active { 
