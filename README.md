@@ -35,7 +35,7 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 
 First Time Visitor's goals:
 
-1. As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. <!--**Measurement of success:** (Measurement of success is the way in which we will prove the story was successful in meeting the user and business goal defined above. This will initially be left blank and will be determined through conversations with research, ux and product. This must be finalized before dev starts.) -->
+1. As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. Provide clarification on common questions.
 
 First Time or Returning Visitor Goals:
 
@@ -307,12 +307,24 @@ The website was tested on browsers:
 - Opera
 
 ### Testing user stories
-Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
+1.	As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. 
+
+| Feature                                     | Action                                                               | Expected result                                     | Actual result |
+| ------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------- | ------------- |
+| Carousel with pictures of campervans.       | Navigate to Campervans page, go through images.                      | See campervans with their important features shown. | As expected.  |
+| Description of campervans.                  | Navigate to Campervans page, read descriptions.                      | Get accustomed with campervan features available.   | As expected.  |
+| Accordion with answers to common questions. | Navigate to FAQ page, scroll through questions, read chosen answers. | Get clarification on common questions.              | As expected.  |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-1a.jpg">
+    <img src="docs/user-story-testing/user-story-1b.jpg">
+</details>
 
 ### Peer review
 Peer code review at Slack (#peer-code-review).
 
-# Bugs and changes to original design
+# Bugs and changes to oryginal design
 During realisation of the project the following obstacles were met and changes to original design introduced:
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
 * Order of content on Contact page slightly changed for better visibility; map visible on all screen.
