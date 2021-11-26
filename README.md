@@ -319,6 +319,8 @@ The website was tested on browsers:
     <summary> Screenshots </summary>
     <img src="docs/user-story-testing/user-story-1a.jpg">
     <img src="docs/user-story-testing/user-story-1b.jpg">
+    <img src="docs/user-story-testing/user-story-1c.jpg">
+    <img src="docs/user-story-testing/user-story-1d.jpg">
 </details>
 
 ### Peer review
