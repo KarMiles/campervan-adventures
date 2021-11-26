@@ -192,8 +192,9 @@ This project has been realised using the following frameworks, programs and webp
 * [Pikwizard](https://pikwizard.com/) - for stock photographs
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
-* [W3 School](https://www.w3schools.com/)
+* [W3 School](https://www.w3schools.com/) - for HTML and CSS coding solutions
 * [C#Corner](https://www.c-sharpcorner.com/blogs/accordion-using-html-5) - for tutorial on HTML5-based accordion
+* IrfanView - for graphics editing.
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
@@ -246,9 +247,11 @@ No errors were found. Reported warnings are related to Bootstrap and Font Owesom
 
 ## User Experience (UX) testing
 
-Goal 1: Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is)
+### Visibility and functionality
+Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is). Screen from this test is placed in the beginning of this document.
 
-Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+### Accessibility
+Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 <details>
     <summary>Home</summary>
     <img src="docs/validation/validation-accessibility-index.jpg">
@@ -272,17 +275,50 @@ Goal 2: Testing fo accesibility of the site [WAVE Web Accessibility Evaluation T
     <img src="docs/validation/validation-accessibility-contact.jpg">
 </details>
 
-Goal 3: Performance testing [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+### Performance
+Performance testing was done through [Lighthouse](https://developers.google.com/web/tools/lighthouse).
+ All performance tests ended with score between 90-100.
+<details>
+    <summary>Home</summary>
+    <img src="docs/validation/validation-performance-index.jpg">
+</details>
+<details>
+    <summary>Campervans</summary>
+    <img src="docs/validation/validation-performance-campervans.jpg">
+</details>
+<details>
+    <summary>Garage</summary>
+    <img src="docs/validation/validation-performance-garage.jpg">
+</details>
+<details>
+    <summary>FAQ</summary>
+    <img src="docs/validation/validation-performance-faq.jpg">
+</details>
+<details>
+    <summary>Contact</summary>
+    <img src="docs/validation/validation-performance-contact.jpg">
+</details>
 
-Goal 4: Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
+### Browser compatibility
+The website was tested on browsers:
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Opera
 
-Goal 5: Peer code review at Slack (#peer-code-review).
+### Testing user stories
+Testing for user stories (screenshots of the finished product and explanation how the site meets the requirements of the user stories).
+
+### Peer review
+Peer code review at Slack (#peer-code-review).
 
 # Bugs and changes to original design
 During realisation of the project the following obstacles were met and changes to original design introduced:
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
-* Order of content slightly changed for better visibility; map visible on all screen.
-* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: devided content into slates, adhering to responsive design practice.
+* Order of content on Contact page slightly changed for better visibility; map visible on all screen.
+* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: devided content into boxes, adhering to responsive design practice.
+* Navigation bar left in default left-align as functional and estetically pleasing. 
+* Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
 
 # Credits
 * Code
