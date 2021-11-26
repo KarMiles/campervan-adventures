@@ -45,9 +45,9 @@ First Time or Returning Visitor Goals:
 5. As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
 6. As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
 
-### Focus (What is worth doing?)
+### Focus
 
-Opportunities assessed at the initial roll-out:
+Assessment of opportunities which should be focused on at the initial roll-out was carried out through the analysis of their importance and viability:
 
 | No. | Opportunity / problem                                                | Importance<br>(1 - 5 most important) | Viability / Feasibility (1– 5 most feasible) | Focus ratio |
 | --- | -------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ----------- |
@@ -162,7 +162,7 @@ Site low-fidelity prototypes were created in three versions for various screen s
 
 # Plane 5. Surface
 
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a landscape with a campervan. Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of hints of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to Volkswagen campervan heritage.
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a spacioius landscape and of campervans. Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of hints of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to Volkswagen campervan heritage.
 <details>
     <summary>Colour palette</summary>
     <img src="docs/color-pallette.jpg">
@@ -205,7 +205,7 @@ The site will be deployed to GitHub pages, using also GitHub repository, GitHub 
 ## Validators
 
 The following validators were used for testing code correctness:
-* [W3C Markup Validator](https://validator.w3.org/) 
+### [W3C Markup Validator](https://validator.w3.org/) 
 
 No errors or warnings were found throughout the site.
 <details>
@@ -229,7 +229,7 @@ No errors or warnings were found throughout the site.
     <img src="docs/validation/validation-html-contact.jpg">
 </details>
 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
+### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
 
 No errors were found. Reported warnings are related to Bootstrap and Font Owesome solutions.
 <details>
