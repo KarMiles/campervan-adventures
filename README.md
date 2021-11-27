@@ -14,7 +14,7 @@ Developer: Karol Mileszko
     + [Owner’s goals](#owner-s-goals)
     + [Users' goals](#users--goals)
   * [User Experience (UX)](#user-experience--ux-)
-    + [User stories:](#user-stories-)
+    + [User stories](#user-stories-)
     + [Focus](#focus)
 - [Plane 2. Scope](#plane-2-scope)
   * [Objective requirements](#objective-requirements)
@@ -50,7 +50,7 @@ Developer: Karol Mileszko
     + [Browser compatibility](#browser-compatibility)
     + [Testing user stories](#testing-user-stories)
     + [Peer review](#peer-review)
-- [Bugs and changes to oryginal design](#bugs-and-changes-to-oryginal-design)
+- [Bugs and changes to original design](#bugs-and-changes-to-original-design)
 - [Credits](#credits)
   * [Code](#code)
   * [Media](#media)
@@ -85,7 +85,7 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 
 ## User Experience (UX)
 
-### User stories:
+### User stories
 
 First Time Visitor's goals:
 
@@ -165,12 +165,14 @@ Feature No. 6 enabling visitors to rent vehicles online finds itself outside the
 
 # Plane 3. Structure
 
+## Prioritisation
 The information is prioritised in the following order:
 1.	Company offer
 2.	Contact section
 3.	Possibility to sign up for the newsletter.
 4.	Presentation of the holidays in a campervan
 
+## Semantic sections
 Webpage has three main semantic sections: 
 
 1.	**Navigation bar** at the top of the page is conveniently available to the user at all times and contains links to pages: Home, Campervans, Garage, FAQ and Contact Us.
@@ -183,7 +185,7 @@ Webpage has three main semantic sections:
 
     * Garage - shows description of services offered at company's garage.
 
-    * FAQ - presents answeres to frequently asked questions related to company's rental and campervan service business.
+    * FAQ - presents answers to frequently asked questions related to company's rental and campervan service business.
 
     * Contact Me - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section.
 
@@ -229,7 +231,7 @@ Colour pallette applied across the site is inspired by the Summer colours of blu
 ## Fonts
 Fonts used on the website are 
 - Yuji Syuku - for most content, giving the sense of an adventure with a hint of vintage style.
-- Allerta Stencil - on boxes listing Garage services and on newsletter form; both refering to traditional post packaging.
+- Allerta Stencil - on boxes listing Garage services and on newsletter form; both referring to traditional post packaging.
 - Ovo - on company's logo.
 - Stadio Now Display - on company's logo.
 ## Structure
@@ -255,7 +257,8 @@ This project has been realised using the following frameworks, programs and webp
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
 * [W3 School](https://www.w3schools.com/) - for HTML and CSS coding solutions
 * [C#Corner](https://www.c-sharpcorner.com/blogs/accordion-using-html-5) - for tutorial on HTML5-based accordion
-* IrfanView - for graphics editing.
+* IrfanView - for graphics editing
+* [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) - for Table of Content generation.
 
 ## Features
 Page consists of five pages with following features utilized.
@@ -499,20 +502,38 @@ The website was tested on browsers:
 ### Peer review
 Peer code review at Slack (#peer-code-review).
 
-# Bugs and changes to oryginal design
+# Bugs and changes to original design
 During realisation of the project the following obstacles were met and changes to original design introduced:
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
 * Content on Contact page slightly rearranged for better visibility; map visible on most of the screen.
-* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: devided content into boxes, adhering to responsive design practice.
-* Navigation bar left in default left-align as functional and estetically pleasing. 
+* Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: divided content into boxes, adhering to responsive design practice.
+* Navigation bar left in default left-align as functional and esthetically pleasing. 
 * Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
 
 # Credits
 ## Code
+
+Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/components/navbar/) and [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/) were sourced from Bootstrap v5.1 library. 
 ## Media
 
-* [Canva](www.canva.com) – logo creation
-* [Colormind](http://colormind.io) – color palette creation  
-* [Unsplash](https://unsplash.com) - for stock photographs
-* [Pikwizard](https://pikwizard.com/) - for stock photographs
+[Canva](www.canva.com) – logo creation
+
+[Colormind](http://colormind.io) – color palette creation  
+
+[Pikwizard](https://pikwizard.com/) - stock photographs
+- [about-us](assets\images\about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
+- [campervan-b-01](assets\images\gallery\campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
+- [campervan-b-01](assets\images\gallery\campervan-b-02.jpg)  photo by [Awesome Content](https://pikwizard.com/photo/group-of-friends-having-fun-at-music-festival/e0ac53025abc7fd718d2a0e04444f6a1)
+- [campervan-b-03](assets\images\gallery\campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/woman-looking-out-of-campervan-window/b1fb1057c83a8f7c75ab2c548070910c)
+
+[Unsplash](https://unsplash.com) - stock photographs
+- [campervan-b-03](assets\images\gallery\campervan-b-01.jpg)  photo by [Manuel Meurisse](https://unsplash.com/@manuelmeurisse)
+- [campervans.jpg](assets\images\campervans.jpg) photo by [Jamie Street](https://unsplash.com/@jamie452)
+
+Other media are property of the developer.
+
 ## Acknowledgements
+I would like to thank everyone who contributed to development of this project, especially:
+- My mentor Mo Shami for his invaluable guidance and advice,
+- Educational Team at [Code Institute](https://codeinstitute.net/) for all materials which made this project possible,
+- All visual artists and coders who make products of their work available to others online.
