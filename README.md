@@ -412,6 +412,10 @@ Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](h
     <summary>Contact</summary>
     <img src="docs/validation/validation-accessibility-contact.jpg">
 </details>
+<details>
+    <summary>404</summary>
+    <img src="docs/validation/validation-accessibility-404.jpg">
+</details>
 
 ### Performance
 Performance testing was done in [Lighthouse](https://developers.google.com/web/tools/lighthouse), part of the Google Chrome Developer Tools.
@@ -435,6 +439,10 @@ Performance testing was done in [Lighthouse](https://developers.google.com/web/t
 <details>
     <summary>Contact</summary>
     <img src="docs/validation/validation-performance-contact.jpg">
+</details>
+<details>
+    <summary>404</summary>
+    <img src="docs/validation/validation-performance-404.jpg">
 </details>
 
 ### Browser compatibility
