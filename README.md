@@ -2,17 +2,21 @@
 
 Developer: Karol Mileszko
 
-This webpage is the showcase for a company Campervan Adventures with the intention to encourage anyone considering having a holiday in a campervan to contact them and rent one of their vehicles. Campervan Adventures aims to achieve this goal through giving the visitor the taste of how much fun and beauty holidays in a campervan can provide and showing some of their campervans in the Our Campervans section.
-
 ![Mockup image](docs/validation/am-i-responsive.jpg)
 
 [Life webpage](https://karmiles.github.io/campervan-adventures/index.html)
 
+## Table of content
 
+## Introduction
+**The idea for the project**
+
+This webpage is the showcase for a company Campervan Adventures with the intention to encourage anyone considering having a holiday in a campervan to contact them and rent one of their vehicles. Campervan Adventures aims to achieve this goal through giving the visitor the taste of how much fun and beauty holidays in a campervan can provide and presenting some of their campervans in the Campervans section.
 
 **Project preparation**
 
-The Campervan Adventures site was designed using the Five Planes of User Experience approach. Below are represented the steps taken during the preparation of the site, going from the most abstract to the most concrete.
+The Campervan Adventures site was designed using the Five Planes of User Experience approach. This document follows the steps taken during the preparation of the site, going from the most abstract to the most concrete.
+
 # Plane 1. Strategy
 
 ## Project Goals
