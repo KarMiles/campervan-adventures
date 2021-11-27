@@ -215,23 +215,41 @@ Page consists of five pages with following features utilized.
 ### Carousel
 - One carousel is dedicated to each campervan on Campervans page and shows photographs depicting the outside and inside of the vehicle in a possibly appealing manner. 
 - User stories covered: 1, 5.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-carousel.jpg">
+</details>
 
 ### Accordion
 - Accordion utilizes the disclosure summary element.
 - Easy and intuitive method for presenting considerable amount of information in an orderly fashion. This allows to clarify most common questions.
 - User stories covered: 1, 4.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-accordeon.jpg">
+</details>
 
 ### Information boxes
 - Information boxes allowing clear and concise presentation of information on services offered by copany's garage.
 - Depending on screen size boxes are presented horisontally or vertically.
 - User stories covered: 5.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-boxes.jpg">
+    <img src="docs/features/features-boxes-vertical.jpg">
+</details>
 
 ### Newsletter sign up form
-
+- Sign up form checks input for correctness and lets visitor check their interest (rent or garage services)
+- Provides site owner with means to maintain customer engagement.
+- User stories covered: 3.
 ### Map
-
+- Shows company's location and provides convenient way to get directions. Alternatively a link to Google Maps with the same location is provided.
+- User stories covered: 2.
 ### Footer
-
+- Is present at the bottom of every page.
+- Provides links to company's social media platforms. 
+- User stories covered: 2, 1.
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
@@ -416,7 +434,7 @@ Peer code review at Slack (#peer-code-review).
 # Bugs and changes to oryginal design
 During realisation of the project the following obstacles were met and changes to original design introduced:
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
-* Order of content on Contact page slightly changed for better visibility; map visible on all screen.
+* Content on Contact page slightly rearranged for better visibility; map visible on most of the screen.
 * Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: devided content into boxes, adhering to responsive design practice.
 * Navigation bar left in default left-align as functional and estetically pleasing. 
 * Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
