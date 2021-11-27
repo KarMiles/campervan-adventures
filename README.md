@@ -343,7 +343,31 @@ The website was tested on browsers:
     <img src="docs/user-story-testing/user-story-3.jpg">
 </details>
 
+4.	As a Visitor I want to check what is needed to have a holiday in a campervan. 
 
+| Feature                                      | Action                                                               | Expected result    | Actual result |
+| -------------------------------------------- | -------------------------------------------------------------------- | ------------------ | ------------- |
+| Accordion with answers to related questions. | Navigate to FAQ page, scroll through questions, read chosen answers. | Get clarification. | As expected.  |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-4.jpg">
+</details>
+
+5.	As a Visitor I want to see what vehicles are available for rent and check for company's current offer.
+
+| Feature                                                              | Action                                                                                              | Expected result                                    | Actual result |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------- |
+| Carousel with campervans photos and campervan descriptions.          | Navigate to Campervan page, see photographs and read descriptions of campervans available for rent. | Get accustomed with campervans and their features. | As expected.  |
+| List of services available for Campervan owners at company’s garage. | Navigate to Garage page, see services available.                                                    | Get accustomed with company’s services.            | As expected.  |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-1a.jpg">
+    <img src="docs/user-story-testing/user-story-1b.jpg">
+    <img src="docs/user-story-testing/user-story-5c.jpg">
+    <img src="docs/user-story-testing/user-story-5d.jpg">
+</details>
 
 ### Peer review
 Peer code review at Slack (#peer-code-review).
