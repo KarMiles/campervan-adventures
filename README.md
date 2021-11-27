@@ -13,8 +13,8 @@ Developer: Karol Mileszko
 - [Plane 1. Strategy](#plane-1-strategy)
   * [Project Goals](#project-goals)
     + [Owner goals](#owner-goals)
-    + [Users goals](#user-goals)
-  * [User Experience (UX)](#user-experience-ux)
+    + [User goals](#user-goals)
+  * [User Experience (UX)](#user-experience--ux-)
     + [User stories](#user-stories)
     + [Focus](#focus)
 - [Plane 2. Scope](#plane-2-scope)
@@ -32,7 +32,7 @@ Developer: Karol Mileszko
   * [Fonts](#fonts)
   * [Structure](#structure)
 - [Technologies used](#technologies-used)
-- [Frameworks, Libraries and Programs used](#frameworks-libraries-and-programs-used)
+- [Frameworks Libraries and Programs used](#frameworks-libraries-and-programs-used)
   * [Features](#features)
     + [Logo and Navigation bar](#logo-and-navigation-bar)
     + [Carousel](#carousel)
@@ -46,7 +46,7 @@ Developer: Karol Mileszko
   * [Validators](#validators)
     + [W3C Markup Validator](#w3c-markup-validator)
     + [W3C CSS Validator](#w3c-css-validator)
-  * [User Experience (UX) testing](#user-experience-ux-testing)
+  * [User Experience (UX) testing](#user-experience--ux--testing)
     + [Visibility and functionality](#visibility-and-functionality)
     + [Accessibility](#accessibility)
     + [Performance](#performance)
@@ -264,7 +264,7 @@ This project has been realised using the following frameworks, programs and webp
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) - for Table of Content generation.
 
 ## Features
-Page consists of five pages with following features utilized.
+Site consists of five pages with following features utilized:
 
 ### Logo and Navigation bar
 - Visible on all pages.
