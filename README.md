@@ -68,7 +68,7 @@ This webpage is the showcase for a company Campervan Adventures with the intenti
 
 The Campervan Adventures site was designed using the Five Planes of User Experience approach. This document follows the steps taken during the preparation of the site, going from the most abstract to the most concrete.
 
-# Plane 1. Strategy
+# Plane 1 Strategy
 
 ## Project Goals
 ### Owner goals
@@ -130,7 +130,7 @@ The "Campervan Adventures" webpage is an online presence for Campervan Adventure
 The value of the project for the owner lies in increased rental turnover achieved through enhanced visitor’s engagement and deepened customer loyalty resulting in repeat orders.
 The value for the visitor lies in getting familiar with the world of campervan holidays and getting an opportunity to realize this vision. 
 
-# Plane 2. Scope
+# Plane 2 Scope
 
 ## Objective requirements
 
@@ -164,7 +164,7 @@ This rollout concentrates on features bringing maximum value to the owner and th
 
 Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
 
-# Plane 3. Structure
+# Plane 3 Structure
 
 ## Prioritisation
 The information is prioritised in the following order:
@@ -192,7 +192,7 @@ Webpage has three main semantic sections:
 
 3.	**Footer** present at the bottom of each page, with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
 
-# Plane 4. Skeleton
+# Plane 4 Skeleton
 
 Site low-fidelity prototypes were created in three versions for various screen sizes: small/smartphone, medium/tablet and large/PC to maintain website responsiveness on various screen sizes:
 
@@ -217,7 +217,7 @@ Site low-fidelity prototypes were created in three versions for various screen s
     <img src="docs/wireframes/wireframe-contact.png">
 </details>
 
-# Plane 5. Surface
+# Plane 5 Surface
 
 ## Design choices
 The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. The visitor will be welcomed with a topical pictures of a spacioius landscape and of campervans. 
