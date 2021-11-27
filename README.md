@@ -4,7 +4,7 @@ Developer: Karol Mileszko
 
 ![Mockup image](docs/validation/am-i-responsive.jpg)
 
-[Life webpage](https://karmiles.github.io/campervan-adventures/index.html)
+[Live webpage](https://karmiles.github.io/campervan-adventures/index.html)
 
 ## Table of content
 
@@ -115,7 +115,7 @@ Assessment of opportunities which should be focused on at the initial roll-out w
 I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph (red area). 
 <details>
     <summary>Importance / Viability graph</summary>
-    <img src="docs/feasibility-graph.png">
+    <img src="docs/feasibility-graph.gif">
 </details>
 
 Basing on the above analysis the initial roll-out follows on opportunities 1 through 5 as most important and feasible and as such are addressed in the project. 
@@ -540,7 +540,7 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 - [faq](assets\images\faq.jpg) photo by [Denise Jans](https://unsplash.com/@dmjdenise)
 
 [Code Institute](https://learn.codeinstitute.net/) - educational material
-- [feasibility-graph](docs\feasibility-graph.png)
+- [feasibility-graph](docs\feasibility-graph.gif)
 
 Other media are property of the developer.
 
