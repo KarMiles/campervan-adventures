@@ -332,6 +332,19 @@ The website was tested on browsers:
     <img src="docs/user-story-testing/user-story-2b.jpg">
 </details>
 
+3.	As a Visitor I want to subscribe to email newsletter. 
+
+| Feature          | Action                                                         | Expected result      | Actual result               |
+| ---------------- | -------------------------------------------------------------- | -------------------- | --------------------------- |
+| Newsletter form. | Navigate to Contact page, fill the Newsletter form and submit. | Enrol to newsletter. | As expected (in demo mode). |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-3.jpg">
+</details>
+
+
+
 ### Peer review
 Peer code review at Slack (#peer-code-review).
 
