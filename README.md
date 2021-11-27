@@ -7,14 +7,15 @@ Developer: Karol Mileszko
 [Live webpage](https://karmiles.github.io/campervan-adventures/index.html)
 
 ## Table of content
-
+- [Campervan Adventures](#campervan-adventures)
+  * [Table of content](#table-of-content)
   * [Introduction](#introduction)
 - [Plane 1. Strategy](#plane-1-strategy)
   * [Project Goals](#project-goals)
     + [Owner’s goals](#owner-s-goals)
     + [Users' goals](#users--goals)
   * [User Experience (UX)](#user-experience--ux-)
-    + [User stories](#user-stories-)
+    + [User stories](#user-stories)
     + [Focus](#focus)
 - [Plane 2. Scope](#plane-2-scope)
   * [Objective requirements](#objective-requirements)
@@ -22,6 +23,8 @@ Developer: Karol Mileszko
   * [Content requirements](#content-requirements)
   * [Campervan Adventures project rollout](#campervan-adventures-project-rollout)
 - [Plane 3. Structure](#plane-3-structure)
+  * [Prioritisation](#prioritisation)
+  * [Semantic sections](#semantic-sections)
 - [Plane 4. Skeleton](#plane-4-skeleton)
 - [Plane 5. Surface](#plane-5-surface)
   * [Design choices](#design-choices)
