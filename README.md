@@ -239,17 +239,31 @@ Page consists of five pages with following features utilized.
     <img src="docs/features/features-boxes-vertical.jpg">
 </details>
 
-### Newsletter sign up form
+### Newsletter sign-up form
 - Sign up form checks input for correctness and lets visitor check their interest (rent or garage services)
 - Provides site owner with means to maintain customer engagement.
 - User stories covered: 3.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-newsletter.jpg">
+</details>
+
 ### Map
 - Shows company's location and provides convenient way to get directions. Alternatively a link to Google Maps with the same location is provided.
 - User stories covered: 2.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-map.jpg">
+</details>
+
 ### Footer
 - Is present at the bottom of every page.
 - Provides links to company's social media platforms. 
 - User stories covered: 2, 1.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-footer.jpg">
+</details>
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
