@@ -323,6 +323,13 @@ Site consists of five pages with following features utilized:
     <img src="docs/features/features-footer.jpg">
 </details>
 
+### Error 404 page
+- Communicates short message about error and presents the visitor with the option to click a link leading to Home page. The visitor is also presented with possibility to chose other means of contact, as on Contact page.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-error.jpg">
+</details>
+
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
 
