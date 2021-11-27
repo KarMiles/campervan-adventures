@@ -326,7 +326,11 @@ The website was tested on browsers:
 | Contact details on Contact page. | Navigate to Contact page and choose means of contact.                                 | Means of contact provided.                     | As expected.  |
 | Google Maps directions.          | Navigate to Contact page and click on link to Google Maps or on map provided on page. | Get directions to company’s physical location. | As expected.  |
 
-
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-2a.jpg">
+    <img src="docs/user-story-testing/user-story-2b.jpg">
+</details>
 
 ### Peer review
 Peer code review at Slack (#peer-code-review).
