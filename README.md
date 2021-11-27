@@ -7,14 +7,12 @@ Developer: Karol Mileszko
 [Live webpage](https://karmiles.github.io/campervan-adventures/index.html)
 
 ## Table of content
-- [Campervan Adventures](#campervan-adventures)
-  * [Table of content](#table-of-content)
-  * [Introduction](#introduction)
+
 - [Plane 1. Strategy](#plane-1-strategy)
   * [Project Goals](#project-goals)
     + [Owner goals](#owner-goals)
     + [User goals](#user-goals)
-  * [User Experience (UX)](#user-experience--ux-)
+  * [User Experience UX](#user-experience-ux)
     + [User stories](#user-stories)
     + [Focus](#focus)
 - [Plane 2. Scope](#plane-2-scope)
@@ -46,7 +44,7 @@ Developer: Karol Mileszko
   * [Validators](#validators)
     + [W3C Markup Validator](#w3c-markup-validator)
     + [W3C CSS Validator](#w3c-css-validator)
-  * [User Experience (UX) testing](#user-experience--ux--testing)
+  * [User Experience UX testing](#user-experience-ux-testing)
     + [Visibility and functionality](#visibility-and-functionality)
     + [Accessibility](#accessibility)
     + [Performance](#performance)
@@ -86,7 +84,7 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 - See what vehicles are available.
 - Rent a vehicle.
 
-## User Experience (UX)
+## User Experience UX
 
 ### User stories
 
@@ -374,7 +372,7 @@ No errors were found by [W3C CSS Validator](https://jigsaw.w3.org/css-validator)
     <img src="docs/validation/validation-css-fontawesome.jpg">
 </details>
 
-## User Experience (UX) testing
+## User Experience UX testing
 
 ### Visibility and functionality
 Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is). Screen from this test is placed in the beginning of this document.
