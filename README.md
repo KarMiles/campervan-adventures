@@ -162,15 +162,26 @@ Site low-fidelity prototypes were created in three versions for various screen s
 
 # Plane 5. Surface
 
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. This is why the visitor will be welcomed with a topical pictures of a spacioius landscape and of campervans. Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of hints of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to Volkswagen campervan heritage.
+## Design choices
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. The visitor will be welcomed with a topical pictures of a spacioius landscape and of campervans. 
+
+## Colour
+Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to classic Volkswagen campervan heritage.
 <details>
     <summary>Colour palette</summary>
     <img src="docs/color-pallette.jpg">
 </details>
 
-Navigation on the page will be done through well-known navigation bar to make the experience intuitive. Active element in the navigation bar will be marked to help visitor in navigation.
+## Fonts
+Fonts used on the website are 
+- Yuji Syuku - for most content, giving the sense of vintage style adventure.
+- Allerta Stencil - on boxes listing Garage services and on newsletter form; both refering to traditional post packaging.
+- Ovo - on company's logo.
+- Stadio Now Display - on company's logo.
+## Structure
+The website is structured in a familiar, user friendly manner. Navigation on the page is made intuitive thanks to the well-known navigation bar mechanism which turns to the hamburger menu on small screen. Active element in the navigation bar is marked with darker colour to help visitor in navigation.
 
-Company logo will always be visible in the navigation section and will lead to home page.
+Company logo is always visible on top of the page in the navigation section and leads to home page.
 
 # Technologies used
 This project has been realised using the following technologies:
