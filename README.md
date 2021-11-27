@@ -12,9 +12,9 @@ Developer: Karol Mileszko
   * [Introduction](#introduction)
 - [Plane 1. Strategy](#plane-1-strategy)
   * [Project Goals](#project-goals)
-    + [Owner’s goals](#owner-s-goals)
-    + [Users' goals](#users--goals)
-  * [User Experience (UX)](#user-experience--ux-)
+    + [Owner’s goals](#owner-goals)
+    + [Users' goals](#users-goals)
+  * [User Experience (UX)](#user-experience-ux-)
     + [User stories](#user-stories)
     + [Focus](#focus)
 - [Plane 2. Scope](#plane-2-scope)
@@ -32,7 +32,7 @@ Developer: Karol Mileszko
   * [Fonts](#fonts)
   * [Structure](#structure)
 - [Technologies used](#technologies-used)
-- [Frameworks, Libraries and Programs used](#frameworks--libraries-and-programs-used)
+- [Frameworks, Libraries and Programs used](#frameworks-libraries-and-programs-used)
   * [Features](#features)
     + [Logo and Navigation bar](#logo-and-navigation-bar)
     + [Carousel](#carousel)
@@ -46,7 +46,7 @@ Developer: Karol Mileszko
   * [Validators](#validators)
     + [W3C Markup Validator](#w3c-markup-validator)
     + [W3C CSS Validator](#w3c-css-validator)
-  * [User Experience (UX) testing](#user-experience--ux--testing)
+  * [User Experience (UX) testing](#user-experience-ux-testing)
     + [Visibility and functionality](#visibility-and-functionality)
     + [Accessibility](#accessibility)
     + [Performance](#performance)
@@ -73,12 +73,12 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 # Plane 1. Strategy
 
 ## Project Goals
-### Owner’s goals
+### Owner goals
 
 - Create online presence for Campervan Adventures in order to increase their rental turnover via visitors’ engagement and customer loyalty. 
 - Provide customers with means necessary to contact the company.
 
-### Users' goals
+### User goals
 - See how holiday in a campervan can be appealing.
 - Contact the company about rental.
 - Get more information and inspiration to follow on.
@@ -248,7 +248,7 @@ This project has been realised using the following technologies:
 * CSS3
 * JavaScript (Bootstrap solutions for responsive navigation and carousel only)
 
-# Frameworks, Libraries and Programs used
+# Frameworks Libraries and Programs used
 This project has been realised using the following frameworks, programs and webpages:
 * Git - for version control
 * GitHub - for storing the project's code and other files
