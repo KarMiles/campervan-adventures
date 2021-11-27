@@ -186,10 +186,6 @@ This project has been realised using the following frameworks, programs and webp
 * Balsamiq - for wireframes creation
 * [Bootstrap](https://getbootstrap.com/) - for navigation and image manipulation components
 * [Google Fonts](https://fonts.google.com/)
-* [Canva](www.canva.com) – logo creation
-* [Colormind](http://colormind.io) – color palette creation  
-* [Unsplash](https://unsplash.com) - for stock photographs
-* [Pikwizard](https://pikwizard.com/) - for stock photographs
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
 * [W3 School](https://www.w3schools.com/) - for HTML and CSS coding solutions
@@ -323,6 +319,15 @@ The website was tested on browsers:
     <img src="docs/user-story-testing/user-story-1d.jpg">
 </details>
 
+2. As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. 
+
+| Feature                          | Action                                                                                | Expected result                                | Actual result |
+| -------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------- |
+| Contact details on Contact page. | Navigate to Contact page and choose means of contact.                                 | Means of contact provided.                     | As expected.  |
+| Google Maps directions.          | Navigate to Contact page and click on link to Google Maps or on map provided on page. | Get directions to company’s physical location. | As expected.  |
+
+
+
 ### Peer review
 Peer code review at Slack (#peer-code-review).
 
@@ -335,6 +340,11 @@ During realisation of the project the following obstacles were met and changes t
 * Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
 
 # Credits
-* Code
-* Media
-* Acknowledgements
+## Code
+## Media
+
+* [Canva](www.canva.com) – logo creation
+* [Colormind](http://colormind.io) – color palette creation  
+* [Unsplash](https://unsplash.com) - for stock photographs
+* [Pikwizard](https://pikwizard.com/) - for stock photographs
+## Acknowledgements
