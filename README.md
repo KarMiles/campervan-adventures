@@ -8,8 +8,6 @@ Developer: Karol Mileszko
 
 ## Table of content
 
-- [Campervan Adventures](#campervan-adventures)
-  * [Table of content](#table-of-content)
   * [Introduction](#introduction)
 - [Plane 1. Strategy](#plane-1-strategy)
   * [Project Goals](#project-goals)
@@ -43,8 +41,8 @@ Developer: Karol Mileszko
 - [Deployment](#deployment)
 - [Testing](#testing)
   * [Validators](#validators)
-    + [[W3C Markup Validator](https://validator.w3.org/)](#-w3c-markup-validator--https---validatorw3org--)
-    + [[W3C CSS Validator](https://jigsaw.w3.org/css-validator)](#-w3c-css-validator--https---jigsaww3org-css-validator-)
+    + [W3C Markup Validator](#w3c-markup-validator)
+    + [W3C CSS Validator](#w3c-css-validator)
   * [User Experience (UX) testing](#user-experience--ux--testing)
     + [Visibility and functionality](#visibility-and-functionality)
     + [Accessibility](#accessibility)
@@ -59,7 +57,6 @@ Developer: Karol Mileszko
   * [Acknowledgements](#acknowledgements)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Introduction
 **The idea for the project**
@@ -331,9 +328,9 @@ The site will be deployed to GitHub pages, using also GitHub repository, GitHub 
 ## Validators
 
 The following validators were used for testing code correctness:
-### [W3C Markup Validator](https://validator.w3.org/) 
+### W3C Markup Validator 
 
-No errors or warnings were found throughout the site.
+No errors or warnings were found by [W3C Markup Validator](https://validator.w3.org/)  throughout the site.
 <details>
     <summary>Home</summary>
     <img src="docs/validation/validation-html-index.jpg">
@@ -355,9 +352,9 @@ No errors or warnings were found throughout the site.
     <img src="docs/validation/validation-html-contact.jpg">
 </details>
 
-### [W3C CSS Validator](https://jigsaw.w3.org/css-validator) 
+### W3C CSS Validator
 
-No errors were found. Reported warnings are related to Bootstrap and Font Owesome solutions.
+No errors were found by [W3C CSS Validator](https://jigsaw.w3.org/css-validator) . Reported warnings are related to Bootstrap and Font Owesome solutions.
 <details>
     <summary>CSS Validation</summary>
     <img src="docs/validation/validation-css.jpg">
