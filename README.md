@@ -213,14 +213,24 @@ Page consists of five pages with following features utilized.
 - Active link is highlighted for easier navigation.
 
 ### Carousel
+- One carousel is dedicated to each campervan on Campervans page and shows photographs depicting the outside and inside of the vehicle in a possibly appealing manner. 
+- User stories covered: 1, 5.
 
 ### Accordion
-The disclosure summary element
+- Accordion utilizes the disclosure summary element.
+- Easy and intuitive method for presenting considerable amount of information in an orderly fashion. This allows to clarify most common questions.
+- User stories covered: 1, 4.
 
 ### Information boxes
+- Information boxes allowing clear and concise presentation of information on services offered by copany's garage.
+- Depending on screen size boxes are presented horisontally or vertically.
+- User stories covered: 5.
 
 ### Newsletter sign up form
+
 ### Map
+
+### Footer
 
 
 # Deployment
