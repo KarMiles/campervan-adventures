@@ -174,12 +174,12 @@ Colour pallette applied across the site is inspired by the Summer colours of blu
 
 ## Fonts
 Fonts used on the website are 
-- Yuji Syuku - for most content, giving the sense of vintage style adventure.
+- Yuji Syuku - for most content, giving the sense of an adventure with a hint of vintage style.
 - Allerta Stencil - on boxes listing Garage services and on newsletter form; both refering to traditional post packaging.
 - Ovo - on company's logo.
 - Stadio Now Display - on company's logo.
 ## Structure
-The website is structured in a familiar, user friendly manner. Navigation on the page is made intuitive thanks to the well-known navigation bar mechanism which turns to the hamburger menu on small screen. Active element in the navigation bar is marked with darker colour to help visitor in navigation.
+The website is structured in a familiar, user friendly manner. Navigation on the page is made intuitive thanks to the well-known navigation bar mechanism which turns to the hamburger menu on a small screen. Active element in the navigation bar is marked with darker colour to help visitor in navigation.
 
 Company logo is always visible on top of the page in the navigation section and leads to home page.
 
@@ -202,6 +202,26 @@ This project has been realised using the following frameworks, programs and webp
 * [W3 School](https://www.w3schools.com/) - for HTML and CSS coding solutions
 * [C#Corner](https://www.c-sharpcorner.com/blogs/accordion-using-html-5) - for tutorial on HTML5-based accordion
 * IrfanView - for graphics editing.
+
+## Features
+Page consists of five pages with following features utilized.
+
+### Logo and Navigation bar
+- Visible on all pages.
+- Navigation bar is fully responsive to screen size and may be visible in full or switches to a togbar on small screens.
+- Company logo serves as Home page link and is visible on all screen sizes.
+- Active link is highlighted for easier navigation.
+
+### Carousel
+
+### Accordion
+The disclosure summary element
+
+### Information boxes
+
+### Newsletter sign up form
+### Map
+
 
 # Deployment
 The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
@@ -258,7 +278,7 @@ No errors were found. Reported warnings are related to Bootstrap and Font Owesom
 Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is). Screen from this test is placed in the beginning of this document.
 
 ### Accessibility
-Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). No errors were found. Alerts were addressed where needed.
 <details>
     <summary>Home</summary>
     <img src="docs/validation/validation-accessibility-index.jpg">
@@ -283,7 +303,7 @@ Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](h
 </details>
 
 ### Performance
-Performance testing was done through [Lighthouse](https://developers.google.com/web/tools/lighthouse).
+Performance testing was done in [Lighthouse](https://developers.google.com/web/tools/lighthouse), part of the Google Chrome Developer Tools.
  All performance tests ended with score between 90-100.
 <details>
     <summary>Home</summary>
