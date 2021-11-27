@@ -362,10 +362,14 @@ No errors or warnings were found by [W3C Markup Validator](https://validator.w3.
     <summary>Contact</summary>
     <img src="docs/validation/validation-html-contact.jpg">
 </details>
+<details>
+    <summary>404</summary>
+    <img src="docs/validation/validation-html-404.jpg">
+</details>
 
-### W3C CSS Validator
+### W3C CSS Jigsaw Validator
 
-No errors were found by [W3C CSS Validator](https://jigsaw.w3.org/css-validator) . Reported warnings are related to Bootstrap and Font Owesome solutions.
+No errors were found by [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator). Reported warnings are related to Bootstrap and Font Owesome solutions.
 <details>
     <summary>CSS Validation</summary>
     <img src="docs/validation/validation-css.jpg">
