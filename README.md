@@ -629,6 +629,8 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
     <img src="docs\color-pallette.jpg">
 </details>
 
+[Font Awesome](https://fontawesome.com/) - sourcing fonts
+
 [Pikwizard](https://pikwizard.com/) - stock photographs
 - [about-us](assets\images\about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
 - [campervan-b-01](assets\images\gallery\campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
