@@ -199,9 +199,9 @@ Webpage has three main semantic sections:
 
     * FAQ - presents answers to frequently asked questions related to company's rental and campervan service business.
 
-    * Contact Me - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section.
+    * Contact Us - provides contact data (opening hours, address of the company, telephone number and an email address), Google map, newsletter sign-up section.
 
-3.	**Footer** present at the bottom of each page, with links to company’s social media at the bottom of every page. Links in the footer open in separate browser windows.
+3.	**Footer** is present at the bottom of each page, with links to company’s social media. Links in the footer open in separate browser windows.
 
 # Plane 4 Skeleton
 
@@ -226,6 +226,10 @@ Site low-fidelity prototypes were created in three versions for various screen s
 <details>
     <summary>Contact</summary>
     <img src="docs/wireframes/wireframe-contact.png">
+</details>
+<details>
+    <summary>404</summary>
+    <img src="docs/wireframes/wireframe-404.png">
 </details>
 
 # Plane 5 Surface
