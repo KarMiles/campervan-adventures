@@ -620,7 +620,7 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 [Canva](www.canva.com) – logo creation
 <details>
     <summary>campervan-adventures-logo</summary>
-    <img src="assets\images\campervan-adventures-logo.gif">
+    <img src="assets\images\campervan-adventures-logo.png">
 </details>
 
 [Colormind](http://colormind.io) – color palette creation  
