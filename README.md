@@ -102,7 +102,7 @@ First Time or Returning Visitor Goals:
 
 Site Owner Goals:
 
-7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. **Site Owner goal:** Provide visitors with multiple ways to stay in contact with the company. **End business goal:** Maintain easy flow of comunication with clients. **Acceptance criteria:** Site provides Visitors with varied means of communication with the company, including: phone, email, links to company's social media outlets, possibility to sign up for a newsleter, and a possibility to visit in person.
+7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. **Site Owner goal:** Provide visitors with multiple ways to stay in contact with the company. **End business goal:** Maintain easy flow of communication with clients. **Acceptance criteria:** Site provides Visitors with varied means of communication with the company, including: phone, email, links to company's social media outlets, possibility to sign up for a newsletter, and a possibility to visit in person.
 
 8. As the Site Owner I want that in case a non-existent page is being pulled and an error shows up the negative impact on Visitor's experience is minimized. **Site Owner goal:** Provide Visitors with positive experience even if error occurs. **End business goal:** Maximize revenue and customer retention by maintaining positive relations with custommers despite possible technical difficulties. **Acceptance criteria:** Site provides Visitors with positive experience even in case of an error. Error page should be positive and suggest further steps for the Visitor. The Visitor must not be forced to navigate by means outside the company's webpage e.g. through Back button on the browser. 
 
@@ -473,10 +473,10 @@ The website was tested on browsers:
 
 <details>
     <summary> Screenshots </summary>
-    <img src="docs/user-story-testing/user-story-1a.jpg">
-    <img src="docs/user-story-testing/user-story-1b.jpg">
-    <img src="docs/user-story-testing/user-story-1c.jpg">
-    <img src="docs/user-story-testing/user-story-1d.jpg">
+    <img src="docs/user-story-testing/user-story-campervans-link.jpg">
+    <img src="docs/user-story-testing/user-story-carousel.jpg">
+    <img src="docs/user-story-testing/user-story-faq-link.jpg">
+    <img src="docs/user-story-testing/user-story-accordeon-link.jpg">
 </details>
 
 2. As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. 
@@ -488,8 +488,8 @@ The website was tested on browsers:
 
 <details>
     <summary> Screenshots </summary>
-    <img src="docs/user-story-testing/user-story-2a.jpg">
-    <img src="docs/user-story-testing/user-story-2b.jpg">
+    <img src="docs/user-story-testing/user-story-contact.jpg">
+    <img src="docs/user-story-testing/user-story-map.jpg">
 </details>
 
 3.	As a Visitor I want to subscribe to email newsletter. 
@@ -500,7 +500,7 @@ The website was tested on browsers:
 
 <details>
     <summary> Screenshots </summary>
-    <img src="docs/user-story-testing/user-story-3.jpg">
+    <img src="docs/user-story-testing/user-story-signup.jpg">
 </details>
 
 4.	As a Visitor I want to check what is needed to have a holiday in a campervan. 
@@ -511,7 +511,7 @@ The website was tested on browsers:
 
 <details>
     <summary> Screenshots </summary>
-    <img src="docs/user-story-testing/user-story-4.jpg">
+    <img src="docs/user-story-testing/user-story-accordeon-link.jpg">
 </details>
 
 5.	As a Visitor I want to see what vehicles are available for rent and check for company's current offer.
@@ -523,11 +523,50 @@ The website was tested on browsers:
 
 <details>
     <summary> Screenshots </summary>
-    <img src="docs/user-story-testing/user-story-1a.jpg">
-    <img src="docs/user-story-testing/user-story-1b.jpg">
-    <img src="docs/user-story-testing/user-story-5c.jpg">
-    <img src="docs/user-story-testing/user-story-5d.jpg">
+    <img src="docs/user-story-testing/user-story-campervans-link.jpg">
+    <img src="docs/user-story-testing/user-story-carousel.jpg">
+    <img src="docs/user-story-testing/user-story-carousel-description.jpg">
+    <img src="docs/user-story-testing/user-story-garage.jpg">
 </details>
+
+6. User story not realized in initial release.
+
+7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. 
+
+| Feature                          | Action                                                                                | Expected result                                              | Actual result               |
+| -------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------- |
+| Contact details on Contact page. | Navigate to Contact page and choose means of contact.                                 | Means of contact provided.                                   | As expected.                |
+| Google Maps directions.          | Navigate to Contact page and click on link to Google Maps or on map provided on page. | Get directions to company’s physical location.               | As expected.                |
+| Newsletter form.                 | Navigate to Contact page, fill the Newsletter form and submit.                        | Enrol to newsletter.                                         | As expected (in demo mode). |
+| Footer                           | At the bottom of the page click on chosen social media link.                          | Opens new window or tab with company’s social media profile. | As expected.                |
+
+8.	As the Site Owner I want that in case a non-existent page is being pulled the negative impact on Visitor's experience is minimized. 
+
+| Feature         | Action                                                         | Expected result                                                                           | Actual result |
+| --------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------- |
+| Error 404 page. | When a non-existent page is called the Error 404 page appears. | In case of error the Error 404 page appears with a short message and a link to main page. | As expected.  |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-error.jpg">
+</details>
+
+9.	As the Site Owner I want that the Garage starts to generate additional revenue for the company. 
+
+| Feature    | Action                                          | Expected result                                              | Actual result |
+| ---------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------- |
+| Info-boxes | Navigate to Garage page to read about services. | Information about services provided by the garage presented. | As expected.  |
+
+<details>
+    <summary> Screenshots </summary>
+    <img src="docs/user-story-testing/user-story-faq.jpg">
+</details>
+
+10.	As the Site Owner I want that the site is usable on all kinds of widely utilized devices and screens. 
+
+| Feature                                               | Action                                                                                                                    | Expected result                                                                                     | Actual result |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------- |
+| Application of responsive design throughout the site. | Site checked for responsiveness on wide range of screens, internet browsers and for performance in performance validator. | All features adjust and maintain full functionality on wide range of screens, browsers and devices. | As expected.  |
 
 ### Peer review
 Peer code review at Slack (#peer-code-review).
