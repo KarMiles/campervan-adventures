@@ -93,7 +93,7 @@ First Time or Returning Visitor Goals:
 
 2. As a Visitor I want to contact Campervan Adventures to enquire about vehicle rental. **End user goal:** Contact the company. **End business goal:** Achieve direct contact with customer to provide service. **Acceptance criteria:** Provide means of contact via telephone, email and visit to the physical address. 
 3. As a Visitor I want to subscribe to email newsletter. **End user goal:** Stay in contact for further information and inspiration. **End business goal:** Build and maintain customer loyalty through customer engagement. **Acceptance criteria:** Obtain customer contact information via email and optionally telephone number. 
-4. As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
+4. As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necessary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and suggestions related with rental: legal, practical, attitude.
 5. As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
 6. As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
 
@@ -101,7 +101,7 @@ Site Owner Goals:
 
 7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. **Site Owner goal:** Provide visitors with multiple ways to stay in contact with the company. **End business goal:** Maintain easy flow of communication with clients. **Acceptance criteria:** Site provides Visitors with varied means of communication with the company, including: phone, email, links to company's social media outlets, possibility to sign up for a newsletter, and a possibility to visit in person.
 
-8. As the Site Owner I want that in case a non-existent page is being pulled and an error shows up the negative impact on Visitor's experience is minimized. **Site Owner goal:** Provide Visitors with positive experience even if error occurs. **End business goal:** Maximize revenue and customer retention by maintaining positive relations with custommers despite possible technical difficulties. **Acceptance criteria:** Site provides Visitors with positive experience even in case of an error. Error page should be positive and suggest further steps for the Visitor. The Visitor must not be forced to navigate by means outside the company's webpage e.g. through Back button on the browser. 
+8. As the Site Owner I want that in case a non-existent page is being pulled and an error shows up the negative impact on Visitor's experience is minimized. **Site Owner goal:** Provide Visitors with positive experience even if error occurs. **End business goal:** Maximize revenue and customer retention by maintaining positive relations with customers despite possible technical difficulties. **Acceptance criteria:** Site provides Visitors with positive experience even in case of an error. Error page should be positive and suggest further steps for the Visitor. The Visitor must not be forced to navigate by means outside the company's webpage e.g. through Back button on the browser. 
 
 9. As the Site Owner I want that the Garage which so far had the primary purpose to maintain the company's vehicle fleet, starts to generate additional revenue for the company. **Site Owner goal:** Inform Visitors who own their own vehicles about the garage's services. **End business goal:** Increase revenue by better utilization of the garage crew. **Acceptance criteria:** Site provides Visitors with information on services offered by the garage.
 
@@ -235,10 +235,10 @@ Site low-fidelity prototypes (wireframes) were created in three versions for var
 # Plane 5 Surface
 
 ## Design choices
-The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. The visitor will be welcomed with a topical pictures of a spacioius landscape and of campervans. 
+The intention behind building the sensory design for the site is focusing on a simple message of beauty lying in campervan holiday. The visitor will be welcomed with a topical pictures of a spacious landscape and of campervans. 
 
 ## Colour
-Colour pallette applied across the site is inspired by the Summer colours of blue sky and hay with addition of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to classic Volkswagen campervan heritage.
+Colour palette applied across the site is inspired by the Summer colours of blue sky and hay with addition of amaranth / auburn as a hint of Autumn and vintage styling appropriate to more traditional-style conscious customers loyal to classic Volkswagen campervan heritage.
 <details>
     <summary>Colour palette</summary>
     <img src="docs/color-pallette.jpg">
@@ -309,7 +309,7 @@ Site consists of five pages with following features:
 
 ### Information boxes
 - Information boxes allowing clear and concise presentation of information on services offered by company's garage.
-- Depending on screen size boxes are presented horisontally or vertically.
+- Depending on screen size boxes are presented horizontally or vertically.
 - User stories covered: 5, 9.
 <details>
     <summary> Screenshot </summary>
@@ -373,8 +373,6 @@ Steps for cloning repository:
 4. Open Git Bash (Git Bash can be downloaded from https://git-scm.com/downloads),
 5. In Git Bash change working directory to the desired destination for the clone,
 6. Type "git clone", paste URL for SSH method from the clipboard (in this project: git clone git&#8203;@github.com:KarMiles/campervan-adventures.git) and press Enter.
-
-
 
 # Testing
 ## Validators
@@ -608,7 +606,7 @@ During realisation of the project the following obstacles were met and changes t
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
 * Content on Contact page slightly rearranged for better visibility; map visible on most of the screen.
 * Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: divided content into boxes, adhering to responsive design practice.
-* Navigation bar left in default left-align as functional and esthetically pleasing. 
+* Navigation bar left in default left-align as functional and aesthetically pleasing. 
 * Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
 
 # Credits
@@ -625,11 +623,11 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 
 [Colormind](http://colormind.io) – color palette creation  
 <details>
-    <summary>color palette creation</summary>
+    <summary>colour palette creation</summary>
     <img src="docs\color-pallette.jpg">
 </details>
 
-[Font Awesome](https://fontawesome.com/) - sourcing fonts
+[Font Awesome](https://fontawesome.com/) - sourcing icons
 
 [Pikwizard](https://pikwizard.com/) - stock photographs
 
