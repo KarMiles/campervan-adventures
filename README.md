@@ -17,7 +17,7 @@ Developer: Karol Mileszko
     1. [Objective requirements](#objective-requirements)
     2. [Functional specifications](#functional-specifications)
     3. [Content requirements](#content-requirements)
-    4. [Campervan Adventures project rollout](#campervan-adventures-project-rollout)
+    4. [Project rollout](#project-rollout)
 3. [Plane 3. Structure](#plane-3-structure)
     1. [Prioritisation](#prioritisation)
     2. [Semantic sections](#semantic-sections)
@@ -42,7 +42,7 @@ Developer: Karol Mileszko
 9. [Testing](#testing)
     1. [Validators](#validators)
     2. [W3C Markup Validator](#w3c-markup-validator)
-    3. [W3C CSS Validator](#w3c-css-jigsaw-validator)
+    3. [W3C CSS JigSaw Validator](#w3c-css-jigsaw-validator)
     4. [User Experience UX testing](#user-experience-ux-testing)
         1. [Visibility and functionality](#visibility-and-functionality)
         2. [Accessibility](#accessibility)
@@ -156,7 +156,7 @@ Website needs to contain:
 * Possibility to sign up to a newsletter.
 * Presentation of company's services.
 
-## Campervan Adventures project rollout
+## Project rollout
 
 |   | **Feature**                                                           | **Difficulty (1 – 3 most difficult)** | **Release** |
 | - | --------------------------------------------------------------------- | ------------------------------------- | ----------- |
@@ -276,6 +276,11 @@ Site consists of five pages with following features utilized:
 - Navigation bar is fully responsive to screen size and may be visible in full or switches to a togbar on small screens.
 - Company logo serves as Home page link and is visible on all screen sizes.
 - Active link is highlighted for easier navigation.
+<details>
+    <summary> Screenshot </summary>
+    <img src="docs/features/features-menu-wide.jpg">
+    <img src="docs/features/features-menu-narrow.jpg">
+</details>
 
 ### Carousel
 - One carousel is dedicated to each campervan on Campervans page and shows photographs depicting the outside and inside of the vehicle in a possibly appealing manner. 
@@ -631,6 +636,6 @@ Other media are property of the developer.
 
 ## Acknowledgements
 I would like to thank everyone who contributed to development of this project, especially:
-- My mentor Mo Shami for his invaluable guidance and advice,
-- Educational Team at [Code Institute](https://codeinstitute.net/) for all materials which made this project possible,
+- My mentor Mo Shami for his invaluable guidance and advice.
+- Educational Team at [Code Institute](https://codeinstitute.net/) for all materials which made this project possible.
 - All visual artists and coders who make products of their work available to others online.
