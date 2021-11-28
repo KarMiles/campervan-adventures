@@ -269,17 +269,16 @@ This project has been realised using the following technologies:
 ## Tools used
 This project has been realised using the following frameworks, programs and webpages:
 * Git - for version control
-* GitHub - for storing the project's code and other files
-* Visual Studio Code - for writing the code and documents
-* Balsamiq - for wireframes creation
+* [GitHub](https://github.com/) - for storing the project's code and other files
+* [Visual Studio Code](https://code.visualstudio.com/) - for writing the code and documents
+* [Balsamiq](https://balsamiq.com/) - for wireframes creation
 * [Bootstrap](https://getbootstrap.com/) - for navigation and image manipulation components
 * [Google Fonts](https://fonts.google.com/)
 * [Table to Markdown](https://tabletomarkdown.com) - for converting tables to markdown format.
 * [Awkale GitHub repository](https://github.com/awkale/user-story-best-practice/blob/master/README.md) - User Story Best Practice documentation and presentation
 * [W3 School](https://www.w3schools.com/) - for HTML and CSS coding solutions
 * [C#Corner](https://www.c-sharpcorner.com/blogs/accordion-using-html-5) - for tutorial on HTML5-based accordion
-* IrfanView - for graphics editing
-* [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) - for Table of Content generation.
+* [IrfanView](https://www.irfanview.com/) - for graphics editing
 
 ## Features applied
 Site consists of five pages with following features:
