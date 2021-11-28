@@ -30,7 +30,8 @@ Developer: Karol Mileszko
     4. [Structure](#structure)
 7. [Technologies used](#technologies-used)
 8. [Frameworks Libraries and Programs used](#frameworks-libraries-and-programs-used)
-    1. [Features](#features)
+    1. [Tools used](#tools-used)
+    2. [Features applied](#features-applied)
         1. [Logo and Navigation bar](#logo-and-navigation-bar)
         2. [Carousel](#carousel)
         3. [Accordion](#accordion)
@@ -265,6 +266,7 @@ This project has been realised using the following technologies:
 * JavaScript (Bootstrap solutions for responsive navigation and carousel only)
 
 # Frameworks Libraries and Programs used
+## Tools used
 This project has been realised using the following frameworks, programs and webpages:
 * Git - for version control
 * GitHub - for storing the project's code and other files
@@ -279,7 +281,7 @@ This project has been realised using the following frameworks, programs and webp
 * IrfanView - for graphics editing
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) - for Table of Content generation.
 
-## Features
+## Features applied
 Site consists of five pages with following features:
 
 ### Logo and Navigation bar
