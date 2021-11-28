@@ -42,9 +42,9 @@ Developer: Karol Mileszko
 9. [Deployment](#deployment)
 10. [Testing](#testing)
     1. [Validators](#validators)
-    2. [W3C Markup Validator](#w3c-markup-validator)
-    3. [W3C CSS JigSaw Validator](#w3c-css-jigsaw-validator)
-    4. [User Experience UX testing](#user-experience-ux-testing)
+        1. [W3C Markup Validator](#w3c-markup-validator)
+        2. [W3C CSS JigSaw Validator](#w3c-css-jigsaw-validator)
+    2. [User Experience UX testing](#user-experience-ux-testing)
         1. [Visibility and functionality](#visibility-and-functionality)
         2. [Accessibility](#accessibility)
         3. [Performance](#performance)
@@ -435,11 +435,13 @@ Testing for accessibility of the site was carried out with the employment of [WA
 <details>
     <summary>Home</summary>
     <img src="docs/validation/validation-accessibility-index.jpg">
+
     Web accessibility alerts indicated a repeated links. These are important for optimal user experience in this case.
 </details>
 <details>
     <summary>Campervans</summary>
     <img src="docs/validation/validation-accessibility-campervans.jpg">
+
     Alerts related to Campervans page indicated to repeated alternative texts in carousel. This is due to similar nature of images in the carousel.
 </details>
 <details>
@@ -607,7 +609,7 @@ Peer code review at Slack (#peer-code-review).
 # Bugs and changes to original design
 During realisation of the project the following obstacles were met and changes to original design introduced:
 * Footer behaving differently on different pages. Fixed position was covering other content. On Campervans page when on static property footer was not spreading across width of page. Solution: default position on all pages. On Campervans page I added property clear with value both. 
-* Content on Contact page slightly rearranged for better visibility; map visible on most of the screen.
+* Content on Contact page slightly rearranged compared to wireframe for better visibility; map visible on most of the screen.
 * Presentation of information changed on Garage page; as navigation bar component would be very similar to main navigation bar I decided on a different solution: divided content into boxes, adhering to responsive design practice.
 * Navigation bar left in default left-align as functional and aesthetically pleasing. 
 * Columns not performing correctly on Mozilla Firefox browser. Firefox-specific fix applied in style.css addressed the problem.
