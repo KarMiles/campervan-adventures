@@ -145,7 +145,11 @@ Visitor wants to find out about spending holidays in a campervan with the possib
 
 ## Functional specifications
 
-Visitor uses site navigation to find the information presented on the webpage. To sign up for a newsletter the visitor needs to enter their personal information. 
+Visitor uses site navigation to find the information presented on the webpage. 
+
+Multiple photographs need to be presented alongside campervan's description.
+
+Visitor can sign up for a newsletter. In order to do it the visitor needs to enter their personal information. 
 
 ## Content requirements
 
