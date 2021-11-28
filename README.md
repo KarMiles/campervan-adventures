@@ -341,9 +341,28 @@ Site consists of five pages with following features utilized:
 </details>
 
 # Deployment
-The site will be deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
+The site is deployed to GitHub pages, using also GitHub repository, GitHub clone and GitHub branch methods as needed. On local computer Visual Studio Code program was used.
 
-[GitHub repository](https://github.com/KarMiles/campervan-adventures ) 
+GitHub deployment:
+1. After logging in to GitHub go to chosen GitHub repository (GitHub Repository for this project: https://github.com/KarMiles/campervan-adventures),
+2. Go to Settings (top right),
+3. Select Pages (menu on the left),
+4. In Source section select Branch: main,
+5. After the page refreshes automatically the confirmation appears (in case of this project: Your site is published at https://karmiles.github.io/campervan-adventures/).
+
+Repository may be forked in the following steps:
+1. Go to GitHub repository,
+2. Click Fork button (top right).
+
+Steps for cloning repository:
+1. Go to GitHub repository,
+2. Click Code button (top right above files list),
+3. Select cloning method option: HTTPS, SSH or GitHub CLI and click Copy button (right side of the text box) to copy URL to clipboard,
+4. Open Git Bash (Git Bash can be downloaded from https://git-scm.com/downloads),
+5. In Git Bash change working directory to the desired destination for the clone,
+6. Type "git clone", paste URL for SSH method from the clipboard (in this project: git clone git&#8203;@github.com:KarMiles/campervan-adventures.git) and press Enter.
+
+
 
 # Testing
 ## Validators
