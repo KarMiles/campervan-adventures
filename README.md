@@ -163,16 +163,17 @@ Website needs to contain:
 
 ## Project rollout
 
-|   | **Feature**                                                           | **Difficulty (1 – 3 most difficult)** | **Release** |
-| - | --------------------------------------------------------------------- | ------------------------------------- | ----------- |
-| 1 | Introduction and pictures representing holidays in a campervan        | 1                                     | 1           |
-| 2 | Company’s offer with pictures of vehicles and their description       | 2                                     | 1           |
-| 3 | Ability to contact the company via email, social media and telephone. | 1                                     | 1           |
-| 4 | Possibility to sign up to the newsletter                              | 1                                     | 1           |
-| 5 | Presenting company's services                     | 2                                     | 1           |
-| 6 | Online rental                                                         | 3                                     | 2           |
+| No. |  Feature                                                              | Difficulty (1 – 3 most difficult) | Release |
+| --- | --------------------------------------------------------------------- | --------------------------------- | ------- |
+| 1   | Introduction and pictures representing holidays in a campervan        | 1                                 | 1       |
+| 2   | Company’s offer with pictures of vehicles and their description       | 2                                 | 1       |
+| 3   | Ability to contact the company via email, social media and telephone. | 1                                 | 1       |
+| 4   | Possibility to sign up to the newsletter                              | 1                                 | 1       |
+| 5   | Presenting company's services                                         | 2                                 | 1       |
+| 6   | Online rental                                                         | 3                                 | 2       |
+| 7   | Error page                                                            | 1                                 | 1       |
 
-This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 5.
+This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 5 and 7.
 
 Feature No. 6 enabling visitors to rent vehicles online finds itself outside the initial rollout due to necessity of employing technologies not included in the project. 
 
