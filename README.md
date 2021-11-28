@@ -632,10 +632,10 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 [Font Awesome](https://fontawesome.com/) - sourcing fonts
 
 [Pikwizard](https://pikwizard.com/) - stock photographs
-- [about-us](assets/images/about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
+- ![about-us](assets/images/about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
 - [campervan-b-01](assets/images/gallery/campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
 - [campervan-b-01](assets/images/gallery/campervan-b-02.jpg)  photo by [Awesome Content](https://pikwizard.com/photo/group-of-friends-having-fun-at-music-festival/e0ac53025abc7fd718d2a0e04444f6a1)
-- ![campervan-b-03](assets/images/gallery/campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/woman-looking-out-of-campervan-window/b1fb1057c83a8f7c75ab2c548070910c)
+- [campervan-b-03](assets/images/gallery/campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/woman-looking-out-of-campervan-window/b1fb1057c83a8f7c75ab2c548070910c)
 - [garage-mechanic](assets/images/garage-mechanic.jpg) photo by [People Creations](https://pikwizard.com/photo/female-mechanic-repairing-a-car/f9c630d5598c1aad0832fc8998a6ac8b)
 - [garage](assets/images/garage.jpg) photo by [People Creations](https://pikwizard.com/photo/car-parts-in-repair-garage/5bce5f680d1e26a60b81565e0f9d7144)
 - [road-landscape](assets/images/road-landscape.jpg) licence [CC0 (Creative Commons Zero)](https://pikwizard.com/photo/asphalt-road-landscape/6ea9c654aa20453193b93eba137134f1)
