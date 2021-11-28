@@ -111,14 +111,15 @@ Site Owner Goals:
 
 Assessment of opportunities which should be focused on at the initial roll-out was carried out through the analysis of their importance and viability:
 
-| No. | Opportunity / problem                                                | Importance<br>(1 - 5 most important) | Viability / Feasibility (1– 5 most feasible) | Focus ratio |
-| --- | -------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------- | ----------- |
-| 1   | Create positive image of campervan holidays and Campervan Adventures | 5                                    | 5                                            | 100%        |
-| 2   | Ability to contact the company                                       | 5                                    | 5                                            | 100%        |
-| 3   | Signing up to the newsletter                                         | 4                                    | 5                                            | 78%         |
-| 4   | View company’s offer                                                 | 5                                    | 4                                            | 78%         |
-| 5   | Presenting company's services                    | 3                                    | 4                                            | 43%         |
-| 6   | Rent online                                                          | 4                                    | 1                                            | 9%          |
+| No. | Opportunity / problem                                                | Importance (1 - 5 most important) | Viability / Feasibility (1– 5 most difficult) | Focus ratio |
+| --- | -------------------------------------------------------------------- | --------------------------------- | --------------------------------------------- | ----------- |
+| 1   | Create positive image of campervan holidays and Campervan Adventures | 5                                 | 5                                             | 86%         |
+| 2   | Ability to contact the company                                       | 5                                 | 5                                             | 86%         |
+| 3   | Signing up to the newsletter                                         | 4                                 | 5                                             | 69%         |
+| 4   | View company’s rental offer                                          | 5                                 | 4                                             | 69%         |
+| 5   | Present company's garage services                                    | 2                                 | 5                                             | 34%         |
+| 6   | Rent online                                                          | 4                                 | 1                                             | 14%         |
+| 7   | Positive impact despite error                                       | 4                                 | 5                                             | 69%         |
 
 I calculated the Focus ratio by multiplying Importance and Viability and normalised the results. This enabled me to compare every Opportunity on a scale of 0-100%. The higher the number the more crucial it is for the Opportunity to be addressed. Importance and Feasibility spectrum is perfectly illustrated on Code Institute graph below; Opportunities with high factor of both importance and viability would find themselves on the top right corner of the graph (red area). 
 <details>
@@ -126,7 +127,7 @@ I calculated the Focus ratio by multiplying Importance and Viability and normali
     <img src="docs/feasibility-graph.gif">
 </details>
 
-Basing on the above analysis the initial roll-out follows on opportunities 1 through 5 as most important and feasible and as such are addressed in the project. 
+Basing on the above analysis the initial roll-out follows on opportunities 1 through 5 and 7 as most important and feasible and as such are addressed in the project. 
 
 **Definition**
 
@@ -168,7 +169,7 @@ Website needs to contain:
 | 2 | Company’s offer with pictures of vehicles and their description       | 2                                     | 1           |
 | 3 | Ability to contact the company via email, social media and telephone. | 1                                     | 1           |
 | 4 | Possibility to sign up to the newsletter                              | 1                                     | 1           |
-| 5 | Presenting company's services                     | 2                                     | 2           |
+| 5 | Presenting company's services                     | 2                                     | 1           |
 | 6 | Online rental                                                         | 3                                     | 2           |
 
 This rollout concentrates on features bringing maximum value to the owner and the user. Those have been identified as features 1 through to 5.
