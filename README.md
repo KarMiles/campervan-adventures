@@ -88,7 +88,7 @@ The Campervan Adventures site was designed using the Five Planes of User Experie
 
 ### User stories
 
-First Time Visitor's goals:
+First Time Visitor goals:
 
 1. As a First Time Visitor I want to see what holidays in a campervan look and feel like so that I can decide whether it's appealing to me. **End user goal:** Decide on my  attitude to campervan holidays. **End business goal:** Build prospective customer engagement. **Acceptance criteria:** Present available campervans in an appealing manner. Provide clarification on common questions.
 
@@ -99,6 +99,16 @@ First Time or Returning Visitor Goals:
 4. As a  Visitor I want to check  what is needed to have a holiday in a campervan. **End user goal:** Obtain details on what is needed before and during campervan holiday. **End business goal:** Provide customer with clarity about their engagement necesary for satisfying campervan holiday. **Acceptance criteria:** Inform customer about necessities and sugestions related with rental: legal, practical, attitude.
 5. As a Visitor I want to see what vehicles are on offer and check for current promotions. **End user goal:** Choose a vehicle. **End business goal:** Provide customer with choice of product leading to rental completion. **Acceptance criteria:** Show pictures and description of vehicles available for rent. 
 6. As a Visitor I want to rent a vehicle online. **End user goal:** Finalize rental contract. **End business goal:** Finalize sale of service. **Acceptance criteria:** Update company vehicle database on vehicle availability. Finalize contract and sale via debit/credit card. Receive payment. Provide confirmation on rental and payment.
+
+Site Owner Goals:
+
+7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. **Site Owner goal:** Provide visitors with multiple ways to stay in contact with the company. **End business goal:** Maintain easy flow of comunication with clients. **Acceptance criteria:** Site provides Visitors with varied means of communication with the company, including: phone, email, links to company's social media outlets, possibility to sign up for a newsleter, and a possibility to visit in person.
+
+8. As the Site Owner I want that in case a non-existent page is being pulled and an error shows up the negative impact on Visitor's experience is minimized. **Site Owner goal:** Provide Visitors with positive experience even if error occurs. **End business goal:** Maximize revenue and customer retention by maintaining positive relations with custommers despite possible technical difficulties. **Acceptance criteria:** Site provides Visitors with positive experience even in case of an error. Error page should be positive and suggest further steps for the Visitor. The Visitor must not be forced to navigate by means outside the company's webpage e.g. through Back button on the browser. 
+
+9. As the Site Owner I want that the Garage which so far had the primary purpose to maintain the company's vehicle fleet, starts to generate additional revenue for the company. **Site Owner goal:** Inform Visitors who own their own vehicles about the garage's services. **End business goal:** Increase revenue by better utilization of the garage crew. **Acceptance criteria:** Site provides Visitors with information on services offered by the garage.
+
+10. As the Site Owner I want that the site is usable on all kinds of widely utilized devices and screens. **Site Owner goal:** Maximize utilisation of the website. **End business goal:** Have maximum reach to wide variety of customers. **Acceptance criteria:** Site presents information and maintains full functionality on wide variety of devices: large computer screens, tablets and smartphones.
 
 ### Focus
 
@@ -327,7 +337,7 @@ Site consists of five pages with following features utilized:
 - Communicates short message about error and presents the visitor with the option to click a link leading to Home page. The visitor is also presented with possibility to chose other means of contact, as on Contact page.
 <details>
     <summary> Screenshot </summary>
-    <img src="docs/features/features-error.jpg">
+    <img src="docs/features/features-404.jpg">
 </details>
 
 # Deployment
