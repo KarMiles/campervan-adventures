@@ -205,7 +205,7 @@ Webpage has three main semantic sections:
 
 # Plane 4 Skeleton
 
-Site low-fidelity prototypes were created in three versions for various screen sizes: small/smartphone, medium/tablet and large/PC to maintain website responsiveness on various screen sizes:
+Site low-fidelity prototypes (wireframes) were created in three versions for various screen sizes: small/smartphone, medium/tablet and large/PC to maintain website responsiveness on various screen sizes:
 
 <details>
     <summary>Home</summary>
@@ -253,7 +253,7 @@ Fonts used on the website are
 ## Structure
 The website is structured in a familiar, user friendly manner. Navigation on the page is made intuitive thanks to the well-known navigation bar mechanism which turns to the hamburger menu on a small screen. Active element in the navigation bar is marked with darker colour to help visitor in navigation.
 
-Company logo is always visible on top of the page in the navigation section and leads to home page.
+Company logo is always visible on top of the page in the navigation section and leads to Home page.
 
 # Technologies used
 This project has been realised using the following technologies:
@@ -277,7 +277,7 @@ This project has been realised using the following frameworks, programs and webp
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) - for Table of Content generation.
 
 ## Features
-Site consists of five pages with following features utilized:
+Site consists of five pages with following features:
 
 ### Logo and Navigation bar
 - Visible on all pages.
@@ -310,7 +310,7 @@ Site consists of five pages with following features utilized:
 ### Information boxes
 - Information boxes allowing clear and concise presentation of information on services offered by copany's garage.
 - Depending on screen size boxes are presented horisontally or vertically.
-- User stories covered: 5.
+- User stories covered: 5, 9.
 <details>
     <summary> Screenshot </summary>
     <img src="docs/features/features-boxes.jpg">
@@ -320,15 +320,15 @@ Site consists of five pages with following features utilized:
 ### Newsletter sign-up form
 - Sign up form checks input for correctness and lets visitor check their interest (rent or garage services)
 - Provides site owner with means to maintain customer engagement.
-- User stories covered: 3.
+- User stories covered: 3, 7.
 <details>
     <summary> Screenshot </summary>
     <img src="docs/features/features-newsletter.jpg">
 </details>
 
 ### Map
-- Shows company's location and provides convenient way to get directions. Alternatively a link to Google Maps with the same location is provided.
-- User stories covered: 2.
+- Shows company's location and provides convenient way to get directions. As an alternative a link to Google Maps with the same location is provided.
+- User stories covered: 2, 7.
 <details>
     <summary> Screenshot </summary>
     <img src="docs/features/features-map.jpg">
@@ -337,7 +337,7 @@ Site consists of five pages with following features utilized:
 ### Footer
 - Is present at the bottom of every page.
 - Provides links to company's social media platforms. 
-- User stories covered: 2, 1.
+- User stories covered: 1, 2, 7.
 <details>
     <summary> Screenshot </summary>
     <img src="docs/features/features-footer.jpg">
@@ -345,6 +345,8 @@ Site consists of five pages with following features utilized:
 
 ### Error 404 page
 - Communicates short message about error and presents the visitor with the option to click a link leading to Home page. The visitor is also presented with possibility to chose other means of contact, as on Contact page.
+
+User story covered: 8.
 <details>
     <summary> Screenshot </summary>
     <img src="docs/features/features-404.jpg">
