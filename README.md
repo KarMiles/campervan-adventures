@@ -632,6 +632,13 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 [Font Awesome](https://fontawesome.com/) - sourcing fonts
 
 [Pikwizard](https://pikwizard.com/) - stock photographs
+<details>
+    <summary>about-us</summary>
+    <img src="assets/images/about-us.jpg">
+    photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
+</details>
+
+
 - ![about-us](assets/images/about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
 - [campervan-b-01](assets/images/gallery/campervan-b-01.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
 - [campervan-b-01](assets/images/gallery/campervan-b-02.jpg)  photo by [Awesome Content](https://pikwizard.com/photo/group-of-friends-having-fun-at-music-festival/e0ac53025abc7fd718d2a0e04444f6a1)
