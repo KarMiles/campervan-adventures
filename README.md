@@ -308,7 +308,7 @@ Site consists of five pages with following features:
 </details>
 
 ### Information boxes
-- Information boxes allowing clear and concise presentation of information on services offered by copany's garage.
+- Information boxes allowing clear and concise presentation of information on services offered by company's garage.
 - Depending on screen size boxes are presented horisontally or vertically.
 - User stories covered: 5, 9.
 <details>
@@ -318,7 +318,7 @@ Site consists of five pages with following features:
 </details>
 
 ### Newsletter sign-up form
-- Sign up form checks input for correctness and lets visitor check their interest (rent or garage services)
+- Sign up form checks input for correctness and lets visitor indicate their interest (rent or garage services)
 - Provides site owner with means to maintain customer engagement.
 - User stories covered: 3, 7.
 <details>
@@ -430,7 +430,7 @@ No errors were found by [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 Optimal visibility and functionality on various devices was tested throughout the production process and the finished product was tested using [Responsive Designs](http://ami.responsivedesign.is). Screen from this test is placed in the beginning of this document.
 
 ### Accessibility
-Testing for accessibility of the site [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). No errors were found. Alerts were addressed where needed.
+Testing for accessibility of the site was carried out with the employment of [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/). No errors were found. Alerts were addressed where needed.
 <details>
     <summary>Home</summary>
     <img src="docs/validation/validation-accessibility-index.jpg">
@@ -506,6 +506,7 @@ The website was tested on browsers:
     <summary> Screenshots </summary>
     <img src="docs/user-story-testing/user-story-campervans-link.jpg">
     <img src="docs/user-story-testing/user-story-carousel.jpg">
+    <img src="docs/user-story-testing/user-story-carousel-description.jpg">
     <img src="docs/user-story-testing/user-story-faq-link.jpg">
     <img src="docs/user-story-testing/user-story-accordeon-link.jpg">
 </details>
@@ -550,7 +551,7 @@ The website was tested on browsers:
 | Feature                                                              | Action                                                                                              | Expected result                                    | Actual result |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------- |
 | Carousel with campervans photos and campervan descriptions.          | Navigate to Campervan page, see photographs and read descriptions of campervans available for rent. | Get accustomed with campervans and their features. | As expected.  |
-| List of services available for Campervan owners at company’s garage. | Navigate to Garage page, see services available.                                                    | Get accustomed with company’s services.            | As expected.  |
+| List of services available for campervan owners at company’s garage. | Navigate to Garage page, see services available.                                                    | Get accustomed with company’s services.            | As expected.  |
 
 <details>
     <summary> Screenshots </summary>
@@ -560,7 +561,7 @@ The website was tested on browsers:
     <img src="docs/user-story-testing/user-story-garage.jpg">
 </details>
 
-6. User story not realized in initial release.
+6. As a Visitor I want to rent a vehicle online. User story not realized in initial release as described in the analysis in the [Focus](#focus) section.
 
 7. As the Site Owner I want that prospective clients have multiple ways to engage with the company. 
 
@@ -617,10 +618,16 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 ## Media
 
 [Canva](www.canva.com) – logo creation
-- [campervan-adventures-logo](assets\images\campervan-adventures-logo.gif)
+<details>
+    <summary>campervan-adventures-logo</summary>
+    <img src="assets\images\campervan-adventures-logo.gif">
+</details>
 
 [Colormind](http://colormind.io) – color palette creation  
-- [color-pallette](docs\color-pallette.jpg)
+<details>
+    <summary>color palette creation</summary>
+    <img src="docs\color-pallette.jpg">
+</details>
 
 [Pikwizard](https://pikwizard.com/) - stock photographs
 - [about-us](assets\images\about-us.jpg)  photo by [People Creations](https://pikwizard.com/photo/group-of-friends-having-fun-together-near-campervan/74ff984b09ddc5ed6e3e646752370ccf)
@@ -640,12 +647,15 @@ Code for responsive [Navigation bar](https://getbootstrap.com/docs/5.1/component
 - [faq](assets\images\faq.jpg) photo by [Denise Jans](https://unsplash.com/@dmjdenise)
 
 [Code Institute](https://learn.codeinstitute.net/) - educational material
-- [feasibility-graph](docs\feasibility-graph.gif)
+<details>
+    <summary> feasibility-graph </summary>
+    <img src="docs\feasibility-graph.gif">
+</details>
 
 Other media are property of the developer.
 
 ## Acknowledgements
 I would like to thank everyone who contributed to development of this project, especially:
 - My mentor Mo Shami for his invaluable guidance and advice.
-- Educational Team at [Code Institute](https://codeinstitute.net/) for all materials which made this project possible.
+- Educational Team at [Code Institute](https://codeinstitute.net/) for all educational materials which made this project possible.
 - All visual artists and coders who make products of their work available to others online.
