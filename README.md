@@ -148,7 +148,7 @@ Visitor wants to find out about spending holidays in a campervan with the possib
 
 ## Functional specifications
 
-Visitor uses site navigation to find the information presented on the webpage. 
+Visitor uses site navigation to find the information presented on the website. 
 
 Multiple photographs need to be presented alongside campervan's description.
 
@@ -304,7 +304,7 @@ Site consists of five pages with following features:
 
 ### Accordion
 - Accordion utilizes the disclosure summary element.
-- Easy and intuitive method for presenting considerable amount of information in an orderly fashion. This allows to clarify most common questions.
+- Easy and intuitive method for presenting considerable amount of information in an orderly fashion. This allows to clarify most common questions addressed on FAQ page.
 - User stories covered: 1, 4.
 <details>
     <summary> Screenshot </summary>
